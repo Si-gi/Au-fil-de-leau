@@ -1,0 +1,4564 @@
+{
+  "lists_pt_int": [
+    {
+      "recordid": "cd00035ef1447d5c4de38f1a9bdc8ffe79b4cef0",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les 15\u00e8me et 16\u00e8me arrondissement, du quartier de Javel au quartier d'Auteuil",
+        "objectid": 1,
+        "histo1": "1966",
+        "elem_princ": "Pont-poutres m\u00e9talliques, piles en b\u00e9ton.",
+        "elem_patri": "Pont du Garigliano",
+        "commentair": "",
+        "location_X": 48.8391597547409,
+        "location_Y": 2.268870487257451,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "400290425f6e7004e4a7acf9ef721507fe732d1e",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Aux limites entre le 1er et 4\u00e8me arrondissement et \u00e0 celles du 5\u00e8me et 6\u00e8me arrondissement",
+        "objectid": 15,
+        "commentair": "Son nom provient du fait que les changeurs y tenaient leur banc pour changer les monnaies.",
+        "histo1": "1860",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arcs surbaiss\u00e9s. Embl\u00eame de Napol\u00e9on au-dessus de chacune des piles.",
+        "elem_patri": "Pont au Change",
+        "location_X": 48.856722281918756,
+        "location_Y": 2.3467992512580578,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a93682273365dbecfd6603050bf5a6acf12f6f72",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai d'Orl\u00e9ans et l'\u00eele de la Cit\u00e9",
+        "objectid": 22,
+        "commentair": "Il s'agit du septi\u00e8me pont construit \u00e0 cet emplacement depuis 1630.",
+        "histo1": "1969",
+        "elem_princ": "Pont-poutres en acier, rambardes \u00e0 barreaudage m\u00e9tallique.",
+        "elem_patri": "Pont Saint-Louis",
+        "location_X": 48.852756747153556,
+        "location_Y": 2.352747837966376,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "98190aacf2668f10acb2feaf349454e2b22943f2",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie l'\u00eele Saint-Louis et le quai des C\u00e9lestins",
+        "objectid": 24,
+        "commentair": "L'un des plus anciens ponts de Paris, r\u00e9alis\u00e9 pour accompagner l'urbanisation de l'\u00eele Saint-Louis.",
+        "histo1": "1635",
+        "elem_princ": "Haut pont vo\u00fbt\u00e9 en pierre. Les avant-becs en pierre sont surmont\u00e9s de niches n'abritant pas de statues.",
+        "elem_patri": "Pont Marie",
+        "location_X": 48.85281718282472,
+        "location_Y": 2.3573822237399393,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7c2f6068375a9f80aa757a9151c6a2379465d98c",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai de la Rap\u00e9e et le quai Saint-Bernard",
+        "objectid": 27,
+        "commentair": "Pont rempla\u00e7ant un pont de 1802, s'appuyant sur ses m\u00eames piles en 1854 puis \u00e9largi en 1884.",
+        "histo1": "1854 - 1885",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arches surbaiss\u00e9es en pierre. Orn\u00e9 de lions.",
+        "elem_patri": "Pont d'Austerlitz",
+        "location_X": 48.845140913221655,
+        "location_Y": 2.366426355614769,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b31a5e5d983a7bd4edb21429176f9639ddf7463e",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai d'Austerlitz et le quai de la Rap\u00e9e",
+        "objectid": 29,
+        "commentair": "Pont construit pour desservir les nouveaux quartiers de Bercy et de la Biblioth\u00e8que Fran\u00e7ois Mitterand.",
+        "histo1": "1998",
+        "elem_princ": "Pont-poutres en b\u00e9ton pr\u00e9contraint avec tablier d'acier blanc.",
+        "elem_patri": "Pont Charles-de-Gaulle",
+        "location_X": 48.84266259323936,
+        "location_Y": 2.369267938804547,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0cfad20dd092b191fcd1bdd7f70784c200cd9773",
+      "fields": {
+        "commune": "Meulan-en-Yvelines",
+        "ensem2": "Relie Les Mureaux et Meulan-en-Yvelines, prenant appui sur l'Ile-Belle",
+        "objectid": 44,
+        "histo1": "Pont construit \u00e0 partir de 1953, inaugur\u00e9 en 1957.",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique.",
+        "elem_patri": "Pont Rhin et Danube",
+        "commentair": "",
+        "location_X": 49.00167296690351,
+        "location_Y": 1.906908276720747,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "aef4b3ae8134fec0653ebefde617a77674a5443b",
+      "fields": {
+        "commune": "Meulan-en-Yvelines",
+        "ensem2": "Relie Meulan rive droite et l'Ile du Fort, vestige de l'ancien pont.",
+        "objectid": 45,
+        "commentair": "La partie allant de l'Ile du Fort jusqu'aux Mureaux n'a pas \u00e9t\u00e9 reconstruite apr\u00e8s la seconde guerre mondiale.",
+        "histo1": "Origine du pont au XII\u00e8me si\u00e8cle; d\u00e9truit en 1944",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arcs en plein cintre. Le bras nord de la Seine a \u00e9t\u00e9 combl\u00e9 et un jardin public le remplace.",
+        "elem_patri": "Pont aux Perches",
+        "location_X": 49.00379204789333,
+        "location_Y": 1.9099944462091085,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1d523e557e2088a6b0de81152641cf80fd535d93",
+      "fields": {
+        "commune": "Maisons-Laffitte",
+        "ensem2": "Relie Maisons-laffitte et l'Ile de la Commune",
+        "objectid": 60,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont \u00e0 une voie circulable, ferm\u00e9 par un portail",
+        "elem_patri": "Pont sur le Petit Bras",
+        "commentair": "",
+        "location_X": 48.94004254315791,
+        "location_Y": 2.1454299572025404,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7e09001beafde48e6d897331ebdfe1a19e137556",
+      "fields": {
+        "commune": "Le Mesnil-le-Roi",
+        "ensem2": "Relie Le Mesnil-le-Roi et l'Ile de la Borde",
+        "objectid": 61,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres, voie en stabilis\u00e9",
+        "elem_patri": "Passerelle sur le Petit Bras",
+        "commentair": "",
+        "location_X": 48.936090301281126,
+        "location_Y": 2.139585302611564,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "cb2c0aac80eb05dfb701af55586ad4133d518f14",
+      "fields": {
+        "commune": "Argenteuil",
+        "ensem2": "Relie Argenteuil et Colombes",
+        "objectid": 74,
+        "histo1": "1874",
+        "elem_princ": "Pont en arc, \u00e0 arches surbaiss\u00e9es ; tablier en acier, piles en pierres.",
+        "elem_patri": "Pont d'Argenteuil",
+        "commentair": "",
+        "location_X": 48.9400855465933,
+        "location_Y": 2.25525876873052,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3ec0a208b72aaf1c4c588a6c81419f77061b49c0",
+      "fields": {
+        "commune": "Clichy-la-Garenne",
+        "ensem2": "Relie Clichy-la-Garenne et et Gennevilliers (Les Gr\u00e9sillons)",
+        "objectid": 83,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Pont en arc \u00e0 arches m\u00e9talliques ; piles en pierres.",
+        "elem_patri": "Pont de Gennevilliers",
+        "commentair": "",
+        "location_X": 48.91312016082712,
+        "location_Y": 2.310913146865975,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5900616d90a557d6aeb477b06686068758c72e77",
+      "fields": {
+        "commune": "Clichy-la-Garenne",
+        "ensem2": "Relie Asni\u00e8res-sur-Seine et Clichy-la-Garenne (m\u00e9tro ligne 13)",
+        "objectid": 85,
+        "histo1": "1980",
+        "elem_princ": "Jumel\u00e9 avec le pont routier, haut viaduc en b\u00e9ton pr\u00e9contraint. Pont du m\u00e9tro 13",
+        "elem_patri": "Viaduc ferroviaire",
+        "commentair": "",
+        "location_X": 48.9094328776883,
+        "location_Y": 2.2994238326643197,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "52674026d919e7fd44ba06e6708de9f35be208ed",
+      "fields": {
+        "commune": "Courbevoie",
+        "ensem2": "Relie l'\u00efle de la Jatte et Courbevoie",
+        "objectid": 89,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Passerelle moderne",
+        "elem_patri": "Passerelle pi\u00e9tonne",
+        "commentair": "",
+        "location_X": 48.898111433589094,
+        "location_Y": 2.2753399263344303,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ec48011bde4fe8413db9d2e5526120874461caac",
+      "fields": {
+        "commune": "Courbevoie",
+        "ensem2": "Relie Courbevoie et  Neuilly-sur-Seine au dessus de l'Ile-de-la-Jatte",
+        "objectid": 90,
+        "histo1": "1924",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont de Courbevoie",
+        "commentair": "",
+        "location_X": 48.89513537810576,
+        "location_Y": 2.2660406659791805,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b27d561f421720c6eb946b282286ddad1de385aa",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "Relie Boulogne-Billancourt et la colline de Saint-Cloud",
+        "objectid": 96,
+        "histo1": "1974",
+        "elem_princ": "Pont-poutres en b\u00e9ton, courbe, se poursuivant en viaduc au-dessus des quais de Seine",
+        "elem_patri": "Viaduc de l'Autoroute A 13",
+        "commentair": "",
+        "location_X": 48.84787371294627,
+        "location_Y": 2.2254943971107397,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0ea62349200cc6f0175ac99cb646d8a05206a5a7",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "Relie Boulogne-Billancourt et Saint-Cloud",
+        "objectid": 97,
+        "commentair": "Le franchissement existe depuis le IXe si\u00e8cle, reconstruit plusieurs fois",
+        "histo1": "1940",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique, piles en b\u00e9ton et rambardes m\u00e9talliques pleines - Longueur : 186m",
+        "elem_patri": "Pont de Saint-Cloud",
+        "location_X": 48.841271423022725,
+        "location_Y": 2.2238256640051888,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "db2e0cb38e07477f71daa3c8b41102c9d40e2155",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "Relie Boulogne-Billancourt et Issy-les-Moulineaux s'appuyant sur l'Ile-Saint-Germain",
+        "objectid": 101,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Deux ponts-poutres en acier, piles en b\u00e9ton.",
+        "elem_patri": "Pont de Billancourt",
+        "commentair": "",
+        "location_X": 48.82327855058853,
+        "location_Y": 2.249415001290164,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "859d32c1d1858666af0545aeab49110bd8a9fef4",
+      "fields": {
+        "commune": "Ivry-sur Seine",
+        "ensem2": "Relie Ivry-sur-Seine et Charenton-le-Pont",
+        "objectid": 107,
+        "commentair": "Passerelle construite par la Centrale \u00e9lectrique d'Ivry, acheminant des lignes \u00e9lectriques.",
+        "histo1": "1929",
+        "elem_princ": "Passerelle-poutres cantilever, en b\u00e9ton",
+        "elem_patri": "Passerelle Ivry-Charenton",
+        "location_X": 48.81777729155259,
+        "location_Y": 2.406934855680837,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0b04403417edbb9969a6ac72e4eed735769f2dc9",
+      "fields": {
+        "commune": "Villeneuve-le-Roi",
+        "ensem2": "Relie Villeneuve-Saint-Georges et Villeneuve-le-Roi",
+        "objectid": 113,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont routier",
+        "commentair": "",
+        "location_X": 48.728061024026054,
+        "location_Y": 2.444014504758826,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8acf331a2623acf59247101c352db695a3b46ac7",
+      "fields": {
+        "commune": "Evry",
+        "ensem2": "Relie Evry et Soisy-sur-Seine",
+        "objectid": 118,
+        "commentair": "La passerelle est en r\u00e9habilitation en 2014.",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Passerelle surplombant l'\u00e9cluse en b\u00e9ton",
+        "elem_patri": "Passerelle de l'\u00e9cluse d'Evry",
+        "location_X": 48.64232248850855,
+        "location_Y": 2.445178671420335,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f2ba4b09948b3eeb6046e55a14ea05681a288fe3",
+      "fields": {
+        "commune": "Ponthierry-Saint-Fargeau",
+        "ensem2": "Relie Ponthierry et Seine-Port (Sainte-Assise)",
+        "objectid": 122,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton.",
+        "elem_patri": "Pont du Mar\u00e9chal Juin",
+        "commentair": "",
+        "location_X": 48.53738426622652,
+        "location_Y": 2.547833857260572,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8def712d7b143920400821afacabb19e57da7ab0",
+      "fields": {
+        "commune": "Montereau-Fault-Yonne",
+        "ensem2": "A c\u00f4t\u00e9 du viaduc autoroutier, pont ferroviaire entre les deux rives de Montereau",
+        "objectid": 138,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.39652391468821,
+        "location_Y": 2.9784826064680736,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "688ffbdf74a4ff23f053b5a6f85890c5bcabbff6",
+      "fields": {
+        "commune": "Montereau-Fault-Yonne",
+        "ensem2": "A c\u00f4t\u00e9 du pont ferroviaire, viaduc autoroutier entre les deux rives de Montereau",
+        "objectid": 139,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Viaduc de l'autoroute A5",
+        "commentair": "",
+        "location_X": 48.396685486324905,
+        "location_Y": 2.9792989559390954,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f1f4dce84ddd3dfdb7737f977596c455fffde775",
+      "fields": {
+        "commune": "Vimpelles",
+        "ensem2": "Relie les deux rives de Vimpelles",
+        "objectid": 144,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Surplombant l'\u00e9cluse et le barrage, pont-poutres en b\u00e9ton",
+        "elem_patri": "Le Gormerot",
+        "commentair": "",
+        "location_X": 48.424638897163966,
+        "location_Y": 3.1877173934257583,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d814f1b3c913184a3b1000763a2bd029c2bb8173",
+      "fields": {
+        "commune": "Champagne-sur-Seine",
+        "ensem2": "Relie Champagne-sur-Seine et Thomery",
+        "objectid": 151,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Surplombant le barrage et l'\u00e9cluse, passerelle en b\u00e9ton. Poste d'observation surplombant la passerelle.",
+        "elem_patri": "Barrage-\u00e9cluse de Champagne-sur-Seine",
+        "commentair": "",
+        "location_X": 48.4012949093449,
+        "location_Y": 2.7930809784875685,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3e8363a36181e75f5c7f7db1b0fd2175a8b926c0",
+      "fields": {
+        "commune": "Bray-sur-Seine",
+        "ensem2": "Entre Mouy-sur-Seine et Bray-sur-Seine",
+        "objectid": 165,
+        "commentair": "La rue du Vieux pont, \u00e0 Mouy-sur-Seine \u00e9voque l'ancien pont. C\u00f4t\u00e9 Bray-sur-Seine, un  port a remplac\u00e9 les anciens vestiges du pont.",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Seul demeure l'ancien axe du pont",
+        "elem_patri": "Ancien pont de Bray",
+        "location_X": 48.41753410346757,
+        "location_Y": 3.2390177041111605,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2be7934824b46584677919c2cddc9b73470e1187",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "Entre Maisons-Alfort et Charenton-le-Pont",
+        "objectid": 173,
+        "commentair": "Supportant l'A86 et faisant office d'\u00e9changeur avec l'A4",
+        "histo1": "XXe si\u00e8cle (2\u00e8me moiti\u00e9)",
+        "elem_princ": "Quadruple viaduc en b\u00e9ton permettant de rejoindre l'autoroute A4, pont-poutres courbes",
+        "elem_patri": "Viaduc de l'A86",
+        "location_X": 48.81560595574744,
+        "location_Y": 2.448250705359158,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f7cdfcaef16bb9a266f5cf3f49477031ef53c307",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "Reliant les deux rives de Meaux, pont",
+        "objectid": 210,
+        "histo1": "XXe si\u00e8cle (2\u00e8me moiti\u00e9)",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 double pile et trois trav\u00e9es",
+        "elem_patri": "Pont Jean Bureau",
+        "commentair": "",
+        "location_X": 48.95708536349187,
+        "location_Y": 2.8765490148672623,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "455dcfe1f09695988256d4479471a4a451c009e6",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Entre Saint-Maur-des-Foss\u00e9s (quartier de la Varenne Saint-Hilaire) et Chennevi\u00e8res-sur-Marne",
+        "objectid": 181,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres large en b\u00e9ton, \u00e0 trois trav\u00e9es, piles doubles",
+        "elem_patri": "Pont de Chennevi\u00e8res",
+        "commentair": "",
+        "location_X": 48.79059214211127,
+        "location_Y": 2.5216561058986575,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "cebc466dc9d9b9df045b49d2e36da86703e75a4e",
+      "fields": {
+        "commune": "Joinville-le-Pont",
+        "ensem2": "A la limite entre Joinville-le-Pont / Champigny-sur-Marne et Saint-Maur-des-Foss\u00e9s",
+        "objectid": 184,
+        "histo1": "1911",
+        "elem_princ": "Pont en arc \u00e0 deux trav\u00e9es ; pile en pierres, tablier m\u00e9tallique \u00e0 structure apparente. Une proue de navire sur la pile avec l'inscription \"RF\"",
+        "elem_patri": "Pont du Petit Parc",
+        "commentair": "",
+        "location_X": 48.81350574921574,
+        "location_Y": 2.480134829101859,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5c8163b1f394cf4045de33178032067610655e4f",
+      "fields": {
+        "commune": "Nogent-sur-Marne",
+        "ensem2": "Relie Nogent-sur-Marne/Le Perreux-sur-Marne \u00e0 Champigny-sur-Marne, en appui sur l'extr\u00e9mit\u00e9 aval de l'\u00eele des Loups",
+        "objectid": 188,
+        "commentair": "Une partie des arches avait \u00e9t\u00e9 d\u00e9truite pendant la 2nde guerre mondiale et ont \u00e9t\u00e9 remplac\u00e9es en 1945 par des arches en b\u00e9ton arm\u00e9",
+        "histo1": "1856 - 1945",
+        "elem_princ": "Haut pont en arc \u00e0 nombreuses trav\u00e9es, \u00e0 tablier port\u00e9 ; une partie des arches sont en pierre, les autres en b\u00e9ton arm\u00e9",
+        "elem_patri": "Viaduc de Nogent",
+        "location_X": 48.8315551594071,
+        "location_Y": 2.497172309507395,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9e158f60e63e1b78df4a08316d48d1c1a1e7d9fc",
+      "fields": {
+        "commune": "Bry-sur-Marne",
+        "ensem2": "Entre Bry-sur-Marne et Le Perreux-sur-Marne",
+        "objectid": 189,
+        "commentair": "Ce pont a remplac\u00e9 un bac puis deux autres ponts. Le p\u00e9age fut maintenu jusqu'en 1884 et une plaque rappelle l'abolition du droit de p\u00e9age \u00e0 l'entr\u00e9e du pont.",
+        "histo1": "1938",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 une trav\u00e9e",
+        "elem_patri": "Pont de Bry",
+        "location_X": 48.83414563680395,
+        "location_Y": 2.517647969169292,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "548856a479b646764972e611608d258a165af9f6",
+      "fields": {
+        "commune": "Bry-sur-Marne",
+        "ensem2": "Entre Bry-sur-Marne et Le Perreux-sur-Marne",
+        "objectid": 190,
+        "commentair": "Construite en 1894 par Eiffel, \u00e0 l'emplacement de l'ancien bac, la passerelle est sur\u00e9lev\u00e9e en 1917. En 1940, la trav\u00e9e c\u00f4t\u00e9 Le Perreux est d\u00e9truite par le G\u00e9nie militaire fran\u00e7ais.",
+        "histo1": "1894 - 1917 - 1940",
+        "elem_princ": "Pont-poutres \u00e0 trois trav\u00e9es, accessible par un escalier \u00e0 double entr\u00e9e ; piles en pierre, tablier m\u00e9tallique \u00e0 poutres apparentes",
+        "elem_patri": "Passerelle de Bry",
+        "location_X": 48.842502525509076,
+        "location_Y": 2.5120207633646108,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b0c61411e282ce987214a1976538d654855d6cfa",
+      "fields": {
+        "commune": "Neuilly-sur-Marne",
+        "ensem2": "Entre Neuilly-sur-Marne et Noisy-le-Grand",
+        "objectid": 193,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 trois trav\u00e9es, une seule enjambant la Marne",
+        "elem_patri": "Pont de service",
+        "commentair": "",
+        "location_X": 48.85282244872902,
+        "location_Y": 2.5290923543584314,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f94b945f2fef1abe1b29852b96454dd1cc6e1e4e",
+      "fields": {
+        "commune": "Noisy-le-Grand",
+        "ensem2": "Entre Gournay-sur-Marne et Chelles",
+        "objectid": 197,
+        "commentair": "La passerelle actuelle, construite en 1936, a \u00e9t\u00e9 restaur\u00e9e \u00e0 partir de 2001. Au d\u00e9bouch\u00e9 de la passerelle, ruines du moulin \u00e0 \u00e9tages de Chelles, abandonn\u00e9 en 1895. En subsistent les arches de pierres. L'industriel Menier reprit le moulin de 187",
+        "histo1": "1936 - 2001",
+        "elem_princ": "Passerelle m\u00e9tallique en arc \u00e0 deux trav\u00e9es",
+        "elem_patri": "Passerelle de Champs",
+        "location_X": 48.86506998899924,
+        "location_Y": 2.5874776547129437,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "47cac67a6a71ecd17b00c0ca69433a10b92aebd5",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "Reliant les deux rives de Meaux, pont",
+        "objectid": 211,
+        "commentair": "Pont cit\u00e9 d\u00e8s 632, il est longtemps le seul point de franchissement de la Marne dans le prolongement de la voie romaine conduisant \u00e0 Troye. Du XIe si\u00e8cle \u00e0 1920, des moulins \u00e9taient situ\u00e9s sur le pont, d\u00e9truits en 1920 par un incendie.",
+        "histo1": "1540, \u00e9largi en 1836 puis 1979",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre et enduit en amont et remplissage briques en aval, \u00e0 arcs en plein cintre \u00e0 7 trav\u00e9es, avant-becs",
+        "elem_patri": "Pont du March\u00e9",
+        "location_X": 48.95775414042205,
+        "location_Y": 2.8797710145226,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f376d061f7db1a71d0f81b2e6a9b9a22bcb9c256",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "A l'entr\u00e9e de la ville, reliant les deux rives de Meaux, pont",
+        "objectid": 213,
+        "commentair": "Belles maisons de villes de part et d'autre en t\u00eate de pont",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 trois voies d'eau, tablier m\u00e9tallique, piles double reli\u00e9es par pile pyramidale",
+        "elem_patri": "Pont Foch",
+        "location_X": 48.95310945944637,
+        "location_Y": 2.8821550537864886,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "27be73ed2b6844bd843f9b82bd7d6a889c3b6628",
+      "fields": {
+        "commune": "Isles-les-Meldeuses",
+        "ensem2": "Entre Isles-les-Meldeuses et Mary-sur-Marne, pont ferroviaire",
+        "objectid": 218,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 trois trav\u00e9es, piles en pierres de taille, tablier m\u00e9tallique",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 49.014398393692765,
+        "location_Y": 3.021040427430568,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9d70ee446301dc0cf59f0a5f50df0e939695b3f8",
+      "fields": {
+        "commune": "Changis-sur-Marne",
+        "ensem2": "Entre Changis-sur-Marne et Armenti\u00e8res-en-Brie, pont ferroviaire",
+        "objectid": 220,
+        "commentair": "Pont d\u00e9truit pendant la 1\u00e8re guerre mondiale puis reconstruit.",
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 quatre trav\u00e9es",
+        "elem_patri": "Pont ferroviaire",
+        "location_X": 48.97492764318833,
+        "location_Y": 3.0015448222422108,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "dde32cf07d3db64c8dd99e0fe7b4f9ef341e1358",
+      "fields": {
+        "commune": "Triel-sur-Seine",
+        "ensem2": "T\u00eate de l'ancien pont de Triel d\u00e9truit pendant la seconde guerre mondiale",
+        "objectid": 233,
+        "commentair": "La rue d\u00e9bouchant sur le pont a conserv\u00e9 le nom de \"rue du Pont\"",
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "2 immeubles \u00e0 angle \u00e0 pan coup\u00e9 R+1 et R+1+C.",
+        "elem_patri": "T\u00eate du Vieux Pont",
+        "location_X": 48.98019052473143,
+        "location_Y": 2.0012645763549752,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "78bcbcbc7468b96ed58589822c38e82222ddbe5e",
+      "fields": {
+        "commune": "Courbevoie",
+        "ensem2": "A la t\u00eate de la passerelle pi\u00e9tonne, deux immeubles paquebot formant t\u00eate de pont",
+        "objectid": 240,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Immeubles R+8 \u00e0 gauche et R+9 \u00e0 droite adoptant le style paquebot avec terrasses en escalier.",
+        "elem_patri": "T\u00eate de la passerelle pi\u00e9tonne",
+        "commentair": "",
+        "location_X": 48.897452279793434,
+        "location_Y": 2.275835734152404,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "86c29b82040e0da8f1d62668a6e7dac33b76e1ab",
+      "fields": {
+        "commune": "Conflans-Sainte-Honorine",
+        "ensem2": "Front de Seine bordant le quai plant\u00e9 avec ensemble de maisons de bourg R+1+C ou R+2, souvent avec commerces en rdc",
+        "objectid": 246,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "elem_princ": "pas d'element principal",
+        "location_X": 48.99119177040546,
+        "location_Y": 2.0904137254264463,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f5d965bf1e2248aed6cf10c1a1193e832c775b04",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "A la t\u00eate du pont de Saint-Cloud, c\u00f4t\u00e9 Boulogne-Billancourt, t\u00eate de pont compos\u00e9e d'un immeuble d'angle et d'une place circulaire en retrait mais am\u00e9nag\u00e9e dans l'axe du pont",
+        "objectid": 248,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Place circulaire entour\u00e9e d'immeubles en arc de cercle R+4 \u00e0 R+6",
+        "elem_patri": "T\u00eate du pont de Saint-Cloud",
+        "commentair": "",
+        "location_X": 48.84076684442029,
+        "location_Y": 2.228277412512075,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4d4f25ea672844ec5b459d6e75e42cb6a46160c8",
+      "fields": {
+        "commune": "Ablon-sur-Seine",
+        "ensem2": "Le long d'un quai plant\u00e9, lin\u00e9aire de vill\u00e9giatures ayant fa\u00e7ade sur Seine",
+        "objectid": 250,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Maisons R+1+C de styles vari\u00e9s (anglo-normand, pierres de taille\u2026), toutes pr\u00e9c\u00e9d\u00e9es d'un jardinet clotur\u00e9",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.72377318244873,
+        "location_Y": 2.425970519105543,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c89868186ee6c2940f2878ee29e512af29195ad1",
+      "fields": {
+        "commune": "Samois-sur-Seine",
+        "ensem2": "Sur la rive gauche de la Seine, \u00e0 l'ouest de l'\u00eele du Berceau, lin\u00e9aire de vill\u00e9giatures",
+        "objectid": 258,
+        "commentair": "A partir du XIXe si\u00e8cle, la commune s'oriente vers la plaisance et devient le lieu de r\u00e9sidences de nombreux artistes et au XXe si\u00e8cle, la pr\u00e9sence de Django Reinhardt.",
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Grandes maisons de diff\u00e9rents styles entour\u00e9es de leur parc",
+        "elem_patri": "Front de berge",
+        "location_X": 48.44950479188197,
+        "location_Y": 2.7552899095928125,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2b4e448c76941314045ca3b4607beb76589c1c65",
+      "fields": {
+        "commune": "Saint-Mamm\u00e8s",
+        "ensem2": "Le long d'un quai plant\u00e9, lin\u00e9aire de maisons de bourg ayant fa\u00e7ade sur Seine",
+        "objectid": 260,
+        "commentair": "L'histoire de la ville est tr\u00e8s li\u00e9e au fleuve, de par son grand r\u00f4le dans la batellerie et l'ouverture du Canal du Loing qui lui ont conf\u00e9r\u00e9 le statut de 2e port francilien sur la Seine apr\u00e8s Conflans-Sainte-Honorine",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Ensemble de maisons de bourg R+1 parfois R+1+C",
+        "elem_patri": "Front de berge",
+        "location_X": 48.387567328255635,
+        "location_Y": 2.805167775482826,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c1b0caa10749910d070aa46aa1c46ad9a67e6176",
+      "fields": {
+        "commune": "Poissy",
+        "ensem2": "Front de Seine bordant le cours plant\u00e9 avec un ensemble d'immeubles et maisons de bourg ancien",
+        "objectid": 263,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "A noter au n\u00b041, maison de bourg ayant pignon sur rue \u00e0 pas de moineaux ; au n\u00b043, maison de bourg avec tourelle triangulaire sur la fa\u00e7ade ; au n\u00b045, maisons de bourg \u00e0 fa\u00e7ade \u00e0 pans de bois avec lodgia",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.93218372526783,
+        "location_Y": 2.036961826489867,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "18aabb84b0064e1f55e558b4ec15cfc983a54d2d",
+      "fields": {
+        "commune": "Bray-sur-Seine",
+        "ensem2": "Sur la rive gauche de la Seine, lin\u00e9aire de maisons de bourg, ayant parfois jardin sur Seine",
+        "objectid": 265,
+        "histo1": "XVIIIe - XIXe si\u00e8cle",
+        "elem_princ": "A noter, Hostel du Minage \u00e0 fa\u00e7ade m\u00e9di\u00e9vale \u00e0 pans de bois (XVe - XVIe si\u00e8cle) ; \u00e0 l'angle de la rue du G\u00e9n\u00e9ral Leclerc, h\u00f4tel urbain du XVIIIe si\u00e8cle",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.41689029862904,
+        "location_Y": 3.2374926655749614,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d264dae132eef50e1692393a6e470464b59f5c3d",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Le long de la Marne et pr\u00e9c\u00e9d\u00e9 d'une rue, dans le quartier de la Varennes-Saint-Hilaire, front de berge constitu\u00e9 de villas",
+        "objectid": 266,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Nombreuses villas, souvent \u00e0 pans de bois et quelques unes en pierres meuli\u00e8res, pr\u00e9c\u00e9d\u00e9es ou non d'un jardin, sur de vastes parcelles",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.798065384328304,
+        "location_Y": 2.5219372869438383,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "87c1e8ff68ff3064fe3347437f50a08bfa80ebb2",
+      "fields": {
+        "commune": "Thorigny-sur-Marne",
+        "ensem2": "Le long de la Marne, quai plant\u00e9 le long duquel s'alignent des villas",
+        "objectid": 269,
+        "histo1": "XIXe si\u00e8cle (fin) - D\u00e9but XXe",
+        "elem_princ": "Ensemble de villas pr\u00e9c\u00e9d\u00e9es de jardinets clos. Villas en meuli\u00e8re et de style anglo-normand notamment.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.88137666306818,
+        "location_Y": 2.7070147482862152,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6074fc1c1cfffbe3f9644275d96ba16a316267f0",
+      "fields": {
+        "commune": "Poincy",
+        "ensem2": "Au bord de la Marne, ancien moulin",
+        "objectid": 275,
+        "commentair": "L'ancien moulin servait \u00e0 moudre les c\u00e9r\u00e9ales produites en plaine, il est aujourd'hui transform\u00e9 en salle de r\u00e9ceptions.",
+        "histo1": "XVIIe si\u00e8cle",
+        "elem_princ": "Long b\u00e2timent principal R+1+C de plan rectangulaire",
+        "elem_patri": "Moulin de Poincy",
+        "location_X": 48.97417909888615,
+        "location_Y": 2.9379716102348747,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "581e6898206bb55d02f2580b870febb06ebe83b3",
+      "fields": {
+        "commune": "Le Perreux-sur-Marne",
+        "ensem2": "Le long de la Marne, sur un quai plant\u00e9, ensemble constitu\u00e9 de pavillons entre cour et jardin.",
+        "objectid": 282,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pavillons R+1+C, certains orient\u00e9s en pignon sur la Marne, de style divers. A noter au n\u00b013, pavillon en meuli\u00e8re avec jardin d'hiver en avanc\u00e9e sur la Marne ; au n\u00b019, villa avec kiosque de jardin ; au n\u00b036, vaste villa en meuli\u00e8re avec verri\u00e8re",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.8319640570107,
+        "location_Y": 2.5067887764006986,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "33205f6558c09422163d50f4921c71fbc6bc6849",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 7\u00e8me et 16\u00e8me arrondissement.",
+        "objectid": 7,
+        "commentair": "Pont construit sur ordre de Napol\u00e9on et portant le nom d'une de ses victoires.",
+        "histo1": "1814",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre, arcs surbaiss\u00e9s. Sculptures sur les piles et aux extr\u00e9mit\u00e9s du pont.",
+        "elem_patri": "Pont d'I\u00e9na",
+        "location_X": 48.85985720746613,
+        "location_Y": 2.291972038259601,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0cc2de20a8e3fab3c4c655903c4d8f88df54ae0a",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie la place Saint-Michel et l'\u00eele de la Cit\u00e9, dans le prolongement du Pont au change",
+        "objectid": 16,
+        "commentair": "Son nom provient de la Chapelle Saint-Michel qui existait dans le Palais Royal.",
+        "histo1": "1857",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arcs de plein cintre en pierre. Embl\u00eame de Napol\u00e9on au-dessus de chacune des piles.",
+        "elem_patri": "Pont Saint-Michel",
+        "location_X": 48.85409015795171,
+        "location_Y": 2.3446434991426703,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5ddadaccc837054429031c833225d22b9a3cc157",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le parvis de Notre-Dame et le quai de Montebello",
+        "objectid": 20,
+        "commentair": "Pont ayant pris place \u00e0 l'emplacement de 3 anciens ponts dont le premier remonte \u00e0 1515.",
+        "histo1": "1883",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 en fonte, arche unique rev\u00eatue de cuivre et cul\u00e9es en pierres de taille.",
+        "elem_patri": "Pont au Double",
+        "location_X": 48.852574075826745,
+        "location_Y": 2.3484179256083615,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "91557b8b13244ca3b22af9e7ded9c6170ce50e84",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai de l'Archev\u00each\u00e9 et le Quai de la Tournelle",
+        "objectid": 21,
+        "commentair": "Comme le pont des Arts, les rambardes accueillent aussi des \"cadenas d'amour\".",
+        "histo1": "1828",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arcs surbaiss\u00e9s en pierre de taille et rambarde m\u00e9tallique.",
+        "elem_patri": "Pont de l'Archev\u00each\u00e9",
+        "location_X": 48.85153001741832,
+        "location_Y": 2.351554161442157,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8c193ccf3387744b62144b23df73948590a83976",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Prenant appui sur l'extr\u00e9mit\u00e9 de l'\u00eele Saint-Louis, entre le boulevard Saint-Germain et le boulevard Saint-Germain.",
+        "objectid": 26,
+        "histo1": "1876",
+        "elem_princ": "Pont en arc. Rive gauche, \u00e0 trois arches en fonte et piles en pierre ; rive droite \u00e0 arche centrale en fonte et deux en ma\u00e7onnerie.",
+        "elem_patri": "Pont de Sully",
+        "commentair": "",
+        "location_X": 48.85020268197972,
+        "location_Y": 2.359383133978396,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1d9a46e4f4abd581a27b3db4fe0f3ca9cf9f8841",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai de Bercy et le quai de la Gare",
+        "objectid": 30,
+        "commentair": "Pont \u00e9largi en 1904, puis en 1992",
+        "histo1": "1864 - 1904 -1992",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arcs surbaiss\u00e9s \u00e0 multiples trav\u00e9es surmont\u00e9 d'un viaduc ferroviaire \u00e0 arches au centre du pont.",
+        "elem_patri": "Pont de Bercy",
+        "location_X": 48.83810407941009,
+        "location_Y": 2.3749268320841965,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9631a1a2a2770744d6796f781e8b6f47efa55836",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les quais de Bercy et Panhard et Levassor",
+        "objectid": 31,
+        "commentair": "Plaques \u00e0 la m\u00e9moire d'aviateurs fran\u00e7ais qui ont choisi durant la Seconde guerre mondiale de s'ab\u00eemer dans la Seine pour \u00e9pargner Paris.",
+        "histo1": "1882",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arcs de plein cintre \u00e0 5 trav\u00e9es",
+        "elem_patri": "Pont de Tolbiac",
+        "location_X": 48.83289695380258,
+        "location_Y": 2.380934455015492,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "42b6ec8f2229a892e383e6d38116ffa56b7a61c1",
+      "fields": {
+        "commune": "Bonni\u00e8res-sur-Seine",
+        "ensem2": "Relie Bonni\u00e8res-sur-Seine et Bennecourt, prenant appui sur Grande \u00cele",
+        "objectid": 38,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique, larges piles en b\u00e9ton, rambardes m\u00e9talliques. Le pont est sur\u00e9lev\u00e9 par rapport \u00e0 la ville de Bonni\u00e8res, offrant un point de vue sur la ville.",
+        "elem_patri": "Pont de Bonni\u00e8res",
+        "commentair": "",
+        "location_X": 49.03842487841112,
+        "location_Y": 1.5714190437827789,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0f954e0441c94f298971143c6a36c3a4f089140f",
+      "fields": {
+        "commune": "Vaux-sur-Seine",
+        "ensem2": "Relie Vaux sur Seine et l'Ile de Vaux",
+        "objectid": 47,
+        "commentair": "Le pont donne sur le domaine priv\u00e9 de l'\u00eele de Vaux.",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique.",
+        "elem_patri": "Pont de l'Ile-de-Vaux",
+        "location_X": 49.00469515057043,
+        "location_Y": 1.9632006526986447,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "40faac849331f95b1b73aca5fd67e54e2a6844da",
+      "fields": {
+        "commune": "Triel-sur-Seine",
+        "ensem2": "Relie Triel-sur-Seine et Vernouillet",
+        "objectid": 48,
+        "histo1": "1956",
+        "elem_princ": "Pont suspendu \u00e0 cha\u00eenes \u00e0 tablier m\u00e9tallique et pyl\u00f4nes en b\u00e9ton",
+        "elem_patri": "Viaduc suspendu de Triel",
+        "commentair": "",
+        "location_X": 48.97840833787131,
+        "location_Y": 2.0013190329435933,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8e89fe20947c98db083b175a32fb34fb0381f437",
+      "fields": {
+        "commune": "Triel-sur-seine",
+        "ensem2": "Relie Triel-sur-Seine et Vernouillet, prenant appui sur l'\u00eele d'Herni\u00e8re",
+        "objectid": 49,
+        "histo1": "2003",
+        "elem_princ": "Pont-poutres \u00e0 double tablier m\u00e9tallique. Pont de la rocade D1.",
+        "elem_patri": "Viaduc routier",
+        "commentair": "",
+        "location_X": 48.967918242003435,
+        "location_Y": 2.0007419373908366,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "383abd8377e9a2e6d53ed8b9286e33fe2447d6ee",
+      "fields": {
+        "commune": "Villennes-sur-Seine",
+        "ensem2": "Relie Villennes-sur-seine \u00e0 l'Ile de Villennes",
+        "objectid": 50,
+        "commentair": "Le pont est ferm\u00e9 par une grille donnant sur le lotissement priv\u00e9.",
+        "histo1": "Plusieurs \u00e9poques",
+        "elem_princ": "Pont-poutres avec avant-becs massifs.",
+        "elem_patri": "Pont de Villennes",
+        "location_X": 48.93960594349517,
+        "location_Y": 2.0006212578821367,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b36936f44a867c0c1eb7445fda83d1a30a8fc6b1",
+      "fields": {
+        "commune": "Conflans-Sainte-Honorine",
+        "ensem2": "Relie les deux rives de Conflans",
+        "objectid": 56,
+        "histo1": "1950",
+        "elem_princ": "Haut pont-poutres en b\u00e9ton. Beau panorama sur la ville et sur ses quais plant\u00e9s.",
+        "elem_patri": "Viaduc de Conflans",
+        "commentair": "",
+        "location_X": 48.98871129763882,
+        "location_Y": 2.082656025739673,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f984a2eedcf8a2fdbe321f9c86b74733389006c9",
+      "fields": {
+        "commune": "Carri\u00e8res-sur-Seine",
+        "ensem2": "Relie carri\u00e8res-sur-Seine et Nanterre pour permettre la travers\u00e9e de l'A 14, prenant appui sur l'Ile Fleurie",
+        "objectid": 69,
+        "histo1": "1996",
+        "elem_princ": "Pont-poutres double en b\u00e9ton, armature m\u00e9tallique et hautes balustrades vitr\u00e9es permettant la vue sur le fleuve.",
+        "elem_patri": "Viaduc de l'A 14",
+        "commentair": "",
+        "location_X": 48.90648082574622,
+        "location_Y": 2.1934866792543772,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0ac9756f15913f885d6ad5edfc162f01fdb44969",
+      "fields": {
+        "commune": "Gennevilliers",
+        "ensem2": "Viaduc franchissant la Seine pour l'Autoroute A 15, entre Argenteuil et Gennevilliers",
+        "objectid": 76,
+        "histo1": "Construction 1976 ; doublement: 1991",
+        "elem_princ": "Haut viaduc \u00e0 poutre, double tablier, enjambant la Seine et le port de Gennevilliers - Longueur : 1622m",
+        "elem_patri": "Viaduc de l'A 15",
+        "commentair": "",
+        "location_X": 48.948466420035516,
+        "location_Y": 2.2810491198594463,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2e3fdc12674799e33320bcd29140af80e7d05803",
+      "fields": {
+        "commune": "Courbevoie",
+        "ensem2": "Relie Courbevoie et Levallois-Perret",
+        "objectid": 88,
+        "histo1": "1919",
+        "elem_princ": "Pont en arc \u00e0 arches surbaiss\u00e9es surplombant la pointe aval de l'\u00eele de la Jatte. Tablier m\u00e9tallique, piles de pierres.",
+        "elem_patri": "Pont de Levallois",
+        "commentair": "",
+        "location_X": 48.89986184743461,
+        "location_Y": 2.2778462415379623,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "feb76c19ffbd4cd9e20512149356ca5a7cd3e3a4",
+      "fields": {
+        "commune": "Neuilly-sur-Seine",
+        "ensem2": "Relie Neuilly-sur-Seine et l'\u00efle de la Jatte",
+        "objectid": 91,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Passerelle moderne \u00e0 double rampe; treillis m\u00e9tallique",
+        "elem_patri": "Paserelle pi\u00e9tonne",
+        "commentair": "",
+        "location_X": 48.890505506424454,
+        "location_Y": 2.2605754868057373,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "26cfeded02b842c6dc1e5a29d1d0af424bb9d5b3",
+      "fields": {
+        "commune": "Neuilly-sur-Seine",
+        "ensem2": "Pont routier et ferr\u00e9 (Ligne RER) entre Neuilly-sur-Seine et La D\u00e9fense s'appuyant sur l'Ile-de-Puteaux",
+        "objectid": 92,
+        "commentair": "Architectes Dayd\u00e9 et L\u00e9vy",
+        "histo1": "1942, \u00e9largi en 1992",
+        "elem_princ": "Pont en arc \u00e0 arches surbaiss\u00e9es m\u00e9talliques, piles en pierres",
+        "elem_patri": "Pont de Neuilly",
+        "location_X": 48.88666340867305,
+        "location_Y": 2.254508090283959,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7c9f15fcd86d1762a6731e71aa3bbe17e7519d10",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "Relie S\u00e8vres et Boulogne-Billancourt",
+        "objectid": 98,
+        "commentair": "Ce pont remplace un pont construit en 1820.",
+        "histo1": "1963",
+        "elem_princ": "Pont-poutres en acier et dalles en b\u00e9ton - Longueur : 150m.",
+        "elem_patri": "Pont de S\u00e8vres",
+        "location_X": 48.828494643150464,
+        "location_Y": 2.2269658999860935,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "de48d3f263ab54c5776114964ad78b5a2effbf67",
+      "fields": {
+        "commune": "Issy-les-Moulineaux",
+        "ensem2": "Relie Issy-les-Moulineaux et l'Ile-Saint-Germain",
+        "objectid": 102,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Passerelle-poutres lat\u00e9rales \u00e0 treillis m\u00e9tallique",
+        "elem_patri": "Passerelle de l'Ile-Saint-Germain",
+        "commentair": "",
+        "location_X": 48.8254508940345,
+        "location_Y": 2.257335922025429,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "110d9403bef7885e2b4a33323376513f29bb9455",
+      "fields": {
+        "commune": "Meudon",
+        "ensem2": "Relie Meudon et l'Ile Seguin reliant initialement deux parties des Usines Renault",
+        "objectid": 104,
+        "commentair": "Construite par l'ing\u00e9nieur Seibert, la passerelle, priv\u00e9e, appartenait aux usines Renault. Hors service depuis 1992, elle a \u00e9t\u00e9 r\u00e9ouverte au public en 2011 apr\u00e8s travaux avec le r\u00e9am\u00e9nagement de l'Ile Seguin.",
+        "histo1": "1931",
+        "elem_princ": "Pont en poutre-treillis en b\u00e9ton",
+        "elem_patri": "Passerelle Seibert",
+        "location_X": 48.8219880621992,
+        "location_Y": 2.2355585151292336,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b5bcce98232551a6add8cf446152446ce3864e09",
+      "fields": {
+        "commune": "Athis-Mons",
+        "ensem2": "Relie Athis-Mons et Vigneux-sur-Seine",
+        "objectid": 115,
+        "histo1": "D\u00e9but XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 treillis m\u00e9tallique et piles en pierre",
+        "elem_patri": "Pont de Chemin de Fer",
+        "commentair": "",
+        "location_X": 48.704556440167124,
+        "location_Y": 2.401928606905609,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "245f85868ccb8894fa175fcf79cf4947591cd07f",
+      "fields": {
+        "commune": "Ris-Orangis",
+        "ensem2": "Relie Draveil  (Champrosay) et Ris-Orangis",
+        "objectid": 117,
+        "histo1": "1966",
+        "elem_princ": "Pont-poutres \u00e0 piles de forme pyramidale invers\u00e9e, en b\u00e9ton et tablier m\u00e9tallique",
+        "elem_patri": "Pont de Champrosay",
+        "commentair": "",
+        "location_X": 48.66096915617918,
+        "location_Y": 2.415959810457505,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "908daa27102c42a97c66b630a4d4c9be044bbacc",
+      "fields": {
+        "commune": "Evry",
+        "ensem2": "Relie Evry et Etiolles",
+        "objectid": 119,
+        "histo1": "XXe si\u00e8cle (moiti\u00e9)",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont d'Evry",
+        "commentair": "",
+        "location_X": 48.63586212721984,
+        "location_Y": 2.4563293098900707,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9398c0295e2d7c1d9535d6dbf2bfebcd4e5586af",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "Pont reliant la rive droite \u00e0 l'\u00eele Saint-Etienne",
+        "objectid": 125,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton.",
+        "elem_patri": "Pont Jeanne d'Arc",
+        "commentair": "",
+        "location_X": 48.5372911985084,
+        "location_Y": 2.658827179866811,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "27e5e9cafd1c568b0416ca9d199df3f47e8c3d01",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "A la sortie sud-est de Melun relie la gare de Melun et celle de Livry-sur-Seine",
+        "objectid": 127,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont mar\u00e9chal de Lattre-de-Tassigny",
+        "commentair": "",
+        "location_X": 48.536812341495036,
+        "location_Y": 2.6605537409248465,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "51aa365140be8849dffca40302aac56d2a8dd67e",
+      "fields": {
+        "commune": "Bois-le-Roi",
+        "ensem2": "Relie Chartrettes et Bois-le-Roi",
+        "objectid": 130,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres bomb\u00e9 en b\u00e9ton",
+        "elem_patri": "Pont de la D115",
+        "commentair": "",
+        "location_X": 48.48123329585249,
+        "location_Y": 2.6952639485384196,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f52728d03d35ecf30dd422711597be40df88aa65",
+      "fields": {
+        "commune": "Vulaines-sur-Seine",
+        "ensem2": "Relie Vulaines-sur-Seine et Valvins (commune de Fontainebleau)",
+        "objectid": 132,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont routier",
+        "commentair": "",
+        "location_X": 48.42959583069502,
+        "location_Y": 2.7455384164181478,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6cb3583b4a40e4072c91dc3a7e046ff71395fdd4",
+      "fields": {
+        "commune": "Champagne-sur-Seine",
+        "ensem2": "Relie Champagne-sur-Seine et Thomery",
+        "objectid": 133,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont (D 301)",
+        "commentair": "",
+        "location_X": 48.40593908303168,
+        "location_Y": 2.796750264665947,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4b6355dbabcdcffbb81cb9e41777d4f5aaeac7a4",
+      "fields": {
+        "commune": "Champagne-sur-Seine",
+        "ensem2": "Relie Champagne-sur-Seine et Saint-Mamm\u00e8s",
+        "objectid": 134,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont de Saint-Mamm\u00e8s",
+        "commentair": "",
+        "location_X": 48.389872153125744,
+        "location_Y": 2.807161863263318,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d8ba43a807293b24f8de43e08ebecb377c269c71",
+      "fields": {
+        "commune": "Montereau-Fault-Yonne",
+        "ensem2": "Relie les deux rives de Montereau",
+        "objectid": 136,
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arches surbaiss\u00e9es",
+        "elem_patri": "Pont de Seine",
+        "commentair": "",
+        "histo1": "indetermin\u00e9",
+        "location_X": 48.38880801617659,
+        "location_Y": 2.9597787964589393,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "474d41566be6a9c3c557e31711c8e4e61924cb2f",
+      "fields": {
+        "commune": "Villiers-sur-Seine",
+        "ensem2": "Entre les deux rives de Villiers-sur-Seine",
+        "objectid": 164,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont de Villiers",
+        "commentair": "",
+        "location_X": 48.46259066697656,
+        "location_Y": 3.3746169962276196,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "36ec9031e40ec608f0e0f0f5b34f036b63cc078d",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "Entre Charenton-le-Pont et Maisons-Alfort",
+        "objectid": 168,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "Pont doubl\u00e9, \u00e0 3 trav\u00e9es ; en amont, pont en arc ; en aval, pont-poutres ; piles en pierre, tablier m\u00e9tallique, vo\u00fbtes m\u00e9talliques en amont \u00e0 arcs surbaisss\u00e9s",
+        "elem_patri": "Pont ferroviaire de Charenton-Maisons-Alfort",
+        "commentair": "",
+        "location_X": 48.81635793575653,
+        "location_Y": 2.415960668027658,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3d97f5176478d18889bf79fd17ef85d6d338f17f",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "Entre Saint-Maurice et Maisons-Alfort",
+        "objectid": 172,
+        "commentair": "La pile centrale de la passerelle a \u00e9t\u00e9 heurt\u00e9e en 2011 par un bateau, des travaux de r\u00e9novation ont \u00e9t\u00e9 entrepris et livr\u00e9s en 2012.",
+        "histo1": "1912",
+        "elem_princ": "Pont en arc en b\u00e9ton \u00e0 tablier port\u00e9, bomb\u00e9 en son centre, \u00e0 deux trav\u00e9es",
+        "elem_patri": "Passerelle de Charentonneau",
+        "location_X": 48.81605801180247,
+        "location_Y": 2.4438241384345174,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "32c12d6113d15aa81eb27027e49524bdadada7ce",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Passerelle entre Saint-Maur-des-Foss\u00e9s et l'Ile Sainte-Catherine",
+        "objectid": 178,
+        "histo1": "Edifi\u00e9e en 1913 puis en 1974",
+        "elem_princ": "Passerelle-poutres \u00e0 deux piles rejoignant l'\u00eele ; piles en b\u00e9ton, tablier m\u00e9tallique",
+        "elem_patri": "Passerelle de la Pie",
+        "commentair": "",
+        "location_X": 48.788966435149256,
+        "location_Y": 2.472789133691154,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0d294b2a2f4df3562247cca71f462b11583cedca",
+      "fields": {
+        "commune": "Saint-Thibault-des-Vignes",
+        "ensem2": "Entre Pomponne et Saint-Thibault-des-Vignes",
+        "objectid": 199,
+        "histo1": "XXe si\u00e8cle (fin)",
+        "elem_princ": "Large pont-poutres double en b\u00e9ton",
+        "elem_patri": "Viaduc de l'A104",
+        "commentair": "",
+        "location_X": 48.87527409546217,
+        "location_Y": 2.66922586921519,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9adab2bc31be599e6628228ab235f4201e5dcaa1",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "Reliant les deux rives de Meaux, pont",
+        "objectid": 212,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont-poutres \u00e0 trois trav\u00e9es en b\u00e9ton. D\u00e9cor : sculptures sur les piles du pont",
+        "elem_patri": "Pont neuf",
+        "commentair": "",
+        "location_X": 48.95619922140635,
+        "location_Y": 2.8815022833538078,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ca261d857fbfc480965cda8c2593c7d69fe83083",
+      "fields": {
+        "commune": "M\u00e9ry-sur-Marne",
+        "ensem2": "Entre M\u00e9ry-sur-Marne et Sa\u00e2cy-sur-Marne, pont",
+        "objectid": 229,
+        "commentair": "Dans l'axe du pont, perspective sur l'\u00e9glise de M\u00e9ry",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre, remplissage en meuli\u00e8re, balustrades m\u00e9talliques, \u00e0 trois trav\u00e9es, arcs de plein cintre, avant-becs",
+        "elem_patri": "Pont de la D68A",
+        "location_X": 48.964967405742044,
+        "location_Y": 3.2046698511769844,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c604e6ff4c1f3cdd48a287e27990b4451cd1d812",
+      "fields": {
+        "commune": "Courbevoie",
+        "ensem2": "A la t\u00eate du pont de Courbevoie, sur les rives gauches et droites, immeubles constituant t\u00eate de pont",
+        "objectid": 241,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_patri": "T\u00eate du pont de Courbevoie",
+        "commentair": "",
+        "elem_princ": "pas d'element principal",
+        "location_X": 48.894442997709795,
+        "location_Y": 2.2662632647384275,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "39649a3b9e1bfe82ab9106b65e560c0d5b11b251",
+      "fields": {
+        "commune": "Moisson (Lavacourt)",
+        "ensem2": "Front de berge bord\u00e9 de vill\u00e9giatures R+1+C",
+        "objectid": 242,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "La plupart des maisons sont en moellons en appareil r\u00e9gulier dress\u00e9 et enduit. Au n\u00b09, auberge \"au rendez-vous des canotiers\"",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 49.06261059800204,
+        "location_Y": 1.6950103869461635,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c37ec75f5b247738ba5077e69ce4780110d071a8",
+      "fields": {
+        "commune": "Rolleboise",
+        "ensem2": "Lin\u00e9aire bord\u00e9 de maisons de bourg et de maisons \u00e9l\u00e9mentaires R+1+C ayant fa\u00e7ade sur Seine",
+        "objectid": 243,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Au n\u00b03bis, int\u00e9ressante maison de notable avec balcon central",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 49.02030388748948,
+        "location_Y": 1.6106338149818127,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "e71f0530b21fa7db89d1745622448c2be3ba0420",
+      "fields": {
+        "commune": "Ablon-sur-Seine",
+        "ensem2": "Le long d'un quai plant\u00e9, lin\u00e9aire de maisons de bourg ayant fa\u00e7ade sur Seine",
+        "objectid": 251,
+        "histo1": "XVIe - XIXe - XXe si\u00e8cles",
+        "elem_princ": "Au n\u00b017, grande vill\u00e9giature entour\u00e9e d'un parc ; \u00e0 l'angle de la route de Longjumeau et du quai Magn\u00e9, ch\u00e2tel d'Ablon ou Maison de la Tour, la plus ancienne de la ville (XVIe si\u00e8cle)",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.72173722768172,
+        "location_Y": 2.419526495217662,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2632863cb03997dfea8e28c71587b205efcdfa01",
+      "fields": {
+        "commune": "Aubergenville",
+        "ensem2": "Ancienne plage de Paris",
+        "objectid": 264,
+        "commentair": "La plage de Paris, situ\u00e9e dans le quartier d'Elizabethville, accueillait tous les habitants de la Seine, de Rouen \u00e0 Paris. Lieu de plaisance tr\u00e8s fr\u00e9quent\u00e9 entre les ann\u00e9es 1920 et 1970, il sera peu \u00e0 peu d\u00e9laiss\u00e9 depuis les ann\u00e9es 1960.",
+        "histo1": "XXe - XXIe si\u00e8cle",
+        "elem_princ": "Ancienne plage de Paris aujourd'hui reconvertie en espace public de loisirs",
+        "elem_patri": "Plage de Paris",
+        "location_X": 48.98399425497605,
+        "location_Y": 1.8396137427520003,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "90163d0b6f603b269d102f3675f5c27990bc81a7",
+      "fields": {
+        "commune": "Chennevi\u00e8res-sur-Marne",
+        "ensem2": "Le long de la Marne, donnant jardin sur la rivi\u00e8re, front de berge constitu\u00e9 de villas",
+        "objectid": 267,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Nombreuses grandes villas ayant jardin sur Marne, de styles vari\u00e9s",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.79749224689952,
+        "location_Y": 2.5243396563328355,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bc75f747ae0ce80d45675a95b32369e4f4842c33",
+      "fields": {
+        "commune": "Mary-sur-Marne",
+        "ensem2": "Le long d'un quai, ensemble constitu\u00e9 majoritairement de pavillons et vill\u00e9giatures",
+        "objectid": 279,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Maisons essentiellement R+1+C. A noter au n\u00b014, 16 et n\u00b018, grandes vill\u00e9giatures de style pittoresque. A l'angle du quai et de la rue du port, le ch\u00e2teau Marysien, ancienne gentilhommi\u00e8re des ann\u00e9es 1820 - 1850.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 49.014338609273864,
+        "location_Y": 3.0234543688920628,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8c7ca09e46f64b416d948f7cbcc18b2442d4c236",
+      "fields": {
+        "commune": "Thomery",
+        "ensem2": "Au d\u00e9bouch\u00e9 de la Rue du port, port historique",
+        "objectid": 284,
+        "commentair": "Le port initial fut con\u00e7u sous Philippe-Auguste pour le transport de gr\u00e8s vers Paris",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "En pente douce vers la Seine, port pav\u00e9e",
+        "elem_patri": "Port",
+        "location_X": 48.41192653996505,
+        "location_Y": 2.775519423943001,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "109cea11a1c58eee623a2d2fed3dffba7c979cb6",
+      "fields": {
+        "commune": "Bray-sur-Seine",
+        "ensem2": "Relie Mouy-sur-Seine et Bray-sur-Seine",
+        "objectid": 145,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont de la D412",
+        "commentair": "",
+        "location_X": 48.41784583437242,
+        "location_Y": 3.2357288921774785,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5003a1135a0d0392029ced4332994cc1ff4f4ba1",
+      "fields": {
+        "commune": "Alfortville",
+        "ensem2": "Entre Alfortville et Vitry-sur-Seine",
+        "objectid": 156,
+        "commentair": "Ancienne passerelle de service de l'usine \u00e0 gaz d'Alfortville, permettant d'acheminer le gaz de part et d'autre de la Seine. Il s'agissait d'une passerelle \u00e0 haubans.",
+        "histo1": "D\u00e9but XXe si\u00e8cle - D\u00e9molition dans les ann\u00e9es 2000",
+        "elem_princ": "Subsistent seulement les deux piles en b\u00e9ton, encore pr\u00e9sentes sur chaque berge.",
+        "elem_patri": "Ancienne passerelle de service",
+        "location_X": 48.80612687499301,
+        "location_Y": 2.4093990730860226,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "e01b67c021590a6d062a9610274100fc2afecd68",
+      "fields": {
+        "commune": "Mantes-la-Jolie",
+        "ensem2": "Entre l'\u00eele des Aum\u00f4nes et l'\u00eele de Limay",
+        "objectid": 157,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 deux trav\u00e9es et une pile centrale",
+        "elem_patri": "Pont routier",
+        "commentair": "",
+        "location_X": 48.99682450173101,
+        "location_Y": 1.720298309002791,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "01a0fa30bfa80f10bda584c50487064a656f0973",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "Entre Charenton-le-Pont et Maisons-Alfort",
+        "objectid": 169,
+        "commentair": "Viaduc du m\u00e9tro 8",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 deux trav\u00e9es, piles en b\u00e9ton, tablier m\u00e9tallique",
+        "elem_patri": "Viaduc ferroviaire de Charenton-le-Pont",
+        "location_X": 48.81678540413278,
+        "location_Y": 2.4186641001885523,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c8054622396778d0c3c03fb39b61ea3d6fe5e6ec",
+      "fields": {
+        "commune": "Nogent-sur-Marne",
+        "ensem2": "Relie Nogent-sur-Marne \u00e0 Champigny-sur-Marne, en appui sur l'extr\u00e9mit\u00e9 aval de l'\u00eele des Loups",
+        "objectid": 187,
+        "histo1": "1964",
+        "elem_princ": "Pont-poutres \u00e0 deux trav\u00e9es, tablier m\u00e9tallique double ; piles en forme de Y en b\u00e9ton. D\u00e9cor : sculpture f\u00e9minine sur la pile centrale incarnant la Marne du sculpteur Gaston Cadenat",
+        "elem_patri": "Pont de Nogent",
+        "commentair": "",
+        "location_X": 48.83142652073535,
+        "location_Y": 2.4931239149626605,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3405acc7729bf2b071286937ff5e5a2c617ceb39",
+      "fields": {
+        "commune": "Neuilly-sur-Marne",
+        "ensem2": "Entre Neuilly-sur-Marne et Noisy-le-Grand",
+        "objectid": 194,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 deux trav\u00e9es, tablier m\u00e9tallique, cul\u00e9e en pierres de taille, piles doubles",
+        "elem_patri": "Pont de la N370",
+        "commentair": "",
+        "location_X": 48.85361682837181,
+        "location_Y": 2.5326862779990207,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a8356647cf2c3ba93377668187798500ed0351d7",
+      "fields": {
+        "commune": "Lagny-sur-Marne",
+        "ensem2": "Entre Thorigny-sur-Marne et Lagny-sur-Marne",
+        "objectid": 201,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont en arc \u00e0 trois trav\u00e9es ; arches en b\u00e9ton, piles en pierre, cul\u00e9es en pierre meuli\u00e8re",
+        "elem_patri": "Pont Maunoury",
+        "commentair": "",
+        "location_X": 48.88063207243876,
+        "location_Y": 2.7048192923104315,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f676e1bb91b33b6e3e82912d3dde3cc29a539085",
+      "fields": {
+        "commune": "Mareuil-l\u00e8s-Meaux",
+        "ensem2": "Pont reliant Isles-l\u00e8s-Villenoy et Mareuil-l\u00e8s-Meaux, franchissant le canal de Meaux \u00e0 Chalifert, la Marne et l'Ourcq",
+        "objectid": 208,
+        "commentair": "Pont de l'autoroute A140 construit pour d\u00e9vier l'autoroute du Sud-Ouest de Meaux. Le viaduc a \u00e9t\u00e9 con\u00e7u par Michel Placidi et dessin\u00e9 par l'architecte Berdj Mikaelian.",
+        "histo1": "2004",
+        "elem_princ": "Haut et long viaduc \u00e0 poutres en b\u00e9ton, courbe, \u00e0 nombreuses trav\u00e9es et en l\u00e9g\u00e8re pente",
+        "elem_patri": "Viaduc de Meaux",
+        "location_X": 48.918902908056076,
+        "location_Y": 2.84908760352029,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ba86a2190937522828cf22fc3a1eeccb591cd15a",
+      "fields": {
+        "commune": "Ussy-sur-Marne",
+        "ensem2": "Entre Ussy-sur-Marne et Saint-Jean-les-Deux-Jumeaux, viaduc de l'autoroute de l'est",
+        "objectid": 223,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Viaduc de l'A4",
+        "commentair": "",
+        "location_X": 48.95466231626152,
+        "location_Y": 3.04656651788211,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ef43dc7ccc02fb2c6e8fac5a9d9c00f38c7b4b02",
+      "fields": {
+        "commune": "Sa\u00e2cy-sur-Marne",
+        "ensem2": "Entre Sa\u00e2cy-sur-Marne et Nanteuil-sur-Marne, pont routier",
+        "objectid": 231,
+        "commentair": "A remplac\u00e9 un ancien bac. Rue du Bac dans la perspective du pont avec, en t\u00eate de pont, villa de style n\u00e9o-gothique avec tourelle carr\u00e9e.",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 deux voies d'eau",
+        "elem_patri": "Pont de la D55",
+        "location_X": 48.97680790407809,
+        "location_Y": 3.2209677846552256,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a24f7782b6d9820ac12caae5c450a8836c350c5c",
+      "fields": {
+        "commune": "Bougival",
+        "ensem2": "Front de berge le long du quai Boissy d'Anglas, constitu\u00e9 d'immeubles R+1 \u00e0 2",
+        "objectid": 236,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "Immeubles avec commerces en RDC, en pierres de taille et enduit, quelques immeubles mansard\u00e9es.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.86741848843597,
+        "location_Y": 2.1399812754472483,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6af782d7d9ab24e1c27731ba67a3c8e68edc2307",
+      "fields": {
+        "commune": "Trilbardou",
+        "ensem2": "Sur la Marne et permettant d'alimenter en eau le canal de l'Ourcq en eau, usine \u00e9l\u00e9vatoire des eaux",
+        "objectid": 272,
+        "commentair": "L'usine \u00e9l\u00e9vatoire contient toujours ses anciennes machines et a \u00e9t\u00e9 transform\u00e9 en mus\u00e9e.",
+        "histo1": "1865",
+        "elem_princ": "B\u00e2timent principal compos\u00e9 d'une s\u00e9rie de petits b\u00e2timents,  R+C, enjambant un bras de la Marne. D\u00e9cor : fa\u00e7ade d'entr\u00e9e au b\u00e2timent principal avec soucis de sym\u00e9trie, un corps principal et deux ailes de part et d'autres",
+        "elem_patri": "Usine \u00e9l\u00e9vatoire des eaux",
+        "location_X": 48.94804882407626,
+        "location_Y": 2.797082917868018,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c64143ec6949813c7baaf0555092b0e69258059c",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les 15\u00e8me et 16\u00e8me arrondissement, de la rue Linois \u00e0 la rue Maurice-Bourdet, le pont prend appui sur l'\u00eele aux Cygnes.",
+        "objectid": 4,
+        "commentair": "Sur l'\u00eele aux Cygnes se trouve la r\u00e9plique de la statue de la Libert\u00e9 de Bartholdi",
+        "histo1": "1968",
+        "elem_princ": "Pont-poutres m\u00e9tallique",
+        "elem_patri": "Pont de Grenelle",
+        "location_X": 48.850283478512395,
+        "location_Y": 2.280086598948753,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c8a039722449a9a2e0ca9ec50c66cd752aa57f62",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 7\u00e8me arrondissement et sur l'avenue de New York s\u00e9parant le 8\u00e8me et le 16\u00e8me arrondissement.",
+        "objectid": 8,
+        "histo1": "1974",
+        "elem_princ": "Pont-poutres en b\u00e9ton et acier, arches surbaiss\u00e9es. Sur la pile, sculpture du zouave du pont de l'Alma, c\u00e9l\u00e8bre pour donner le niveau de la Seine.",
+        "elem_patri": "Pont de l'Alma",
+        "commentair": "",
+        "location_X": 48.863506869401185,
+        "location_Y": 2.3017523629308814,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "16798319a8752962ee6f689fb6a1eac80937e533",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les quais d'Orsay et le quai des Tuileries",
+        "objectid": 11,
+        "commentair": "Le pont a \u00e9t\u00e9 \u00e9largi au d\u00e9but des ann\u00e9es 1930 pour r\u00e9pondre aux besoins de la circulation automobile.",
+        "histo1": "1791 - 1932 (remaniement)",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arcs surbaiss\u00e9s en pierre",
+        "elem_patri": "Pont de la Concorde",
+        "location_X": 48.863447658888624,
+        "location_Y": 2.3196349474875455,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "32d4011cf4395e71c670532b3c257af64821907a",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 1er et le 6\u00e8me arrondissement, prenant appui sur l'\u00eele de la Cit\u00e9",
+        "objectid": 14,
+        "histo1": "1577 - 1607",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arches de plein cintre. Statue \u00e9questre d'Henri IV et mascarons sculpt\u00e9s supportant les corniches.",
+        "elem_patri": "Pont Neuf",
+        "commentair": "",
+        "location_X": 48.857315659204026,
+        "location_Y": 2.341472354970819,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ab5e26a079d4c6509a9f4c20b1dfe326c57b7e81",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie l'\u00eele Saint-Louis et le quai de l'H\u00f4tel de Ville",
+        "objectid": 23,
+        "commentair": "Pont rempla\u00e7ant un pont suspendu construit en 1833",
+        "histo1": "1860",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arcs surbaiss\u00e9s en pierre ; garde-corps en pierre et voie pav\u00e9e.",
+        "elem_patri": "Pont Louis Philippe",
+        "location_X": 48.85388676741287,
+        "location_Y": 2.3544702315428885,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "48aa4c9056c40f2f099f187ca604b50f27919749",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les quais de Bercy et le quai d'Ivry",
+        "objectid": 32,
+        "histo1": "1853",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre meuli\u00e8re \u00e0 arches surbaiss\u00e9es.",
+        "elem_patri": "Pont National",
+        "commentair": "",
+        "location_X": 48.828054382497875,
+        "location_Y": 2.3869158955709406,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a2b22ae9b1a2bd32ffff44718caf661dc442c08f",
+      "fields": {
+        "commune": "Mantes-la-Jolie",
+        "ensem2": "Pont de Mantes \u00e0 Limay prenant appui sur l'\u00eele de Limay",
+        "objectid": 39,
+        "histo1": "1870 - 1945. Ce pont remplace l'ancien Pont de Limay d\u00e9truit durant la seconde guerre mondiale.",
+        "elem_princ": "Pont-poutres m\u00e9tallique et larges piles en b\u00e9ton c\u00f4t\u00e9 Mantes ; en pierre c\u00f4t\u00e9 Limay, \u00e0 arches en plein cintre.",
+        "elem_patri": "Pont Neuf de Mantes",
+        "commentair": "",
+        "location_X": 48.99252284227424,
+        "location_Y": 1.7235384513211989,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0ca050bd78b59323b7ba40d387eb1649b956ffa0",
+      "fields": {
+        "commune": "Meulan-en-Yvelines",
+        "ensem2": "Relie l'Ile du Fort et l'Ile belle rejoignant le Pont Rhin et Danube",
+        "objectid": 46,
+        "histo1": "D\u00e9but XXe si\u00e8cle",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 m\u00e9tallique.",
+        "elem_patri": "Pont Saint-C\u00f4me",
+        "commentair": "",
+        "location_X": 49.0017006918378,
+        "location_Y": 1.907712627799765,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4a1ff079d9df60ebc3cc4aa9cebc1386ff79d4b1",
+      "fields": {
+        "commune": "Poissy",
+        "ensem2": "Relie Poissy \u00e0 l'Ile du Grand Motteau",
+        "objectid": 51,
+        "commentair": "A remplac\u00e9 un ancien pont et une ancienne passerelle de 1901, accompagnant un projet de lotissement de l'\u00eele.",
+        "histo1": "1931",
+        "elem_princ": "Pont en bow-string (arcs et cordes), trottoirs ext\u00e9rieurs aux suspentes en b\u00e9ton arm\u00e9, arches en acier.",
+        "elem_patri": "Pont de l'Ile de Migneaux",
+        "location_X": 48.92846343746128,
+        "location_Y": 2.0276437670462095,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "135bfef7f0e56591c8b370338e22c56763e78854",
+      "fields": {
+        "commune": "Conflans-Sainte-Honorine",
+        "ensem2": "Pont du RER A traversant d'une rive \u00e0 l'autre de Conflans",
+        "objectid": 55,
+        "commentair": "A remplac\u00e9 un ancien pont d\u00e9truit pendant la 2nde Guerre mondiale.",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle (1946 puis 1978)",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique",
+        "elem_patri": "Viaduc ferroviaire Joly",
+        "location_X": 48.987171843807445,
+        "location_Y": 2.075449129456087,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4b869d891af1a689bd641d92cb46fcfe598be6f1",
+      "fields": {
+        "commune": "Conflans-Sainte-Honorine",
+        "ensem2": "Parall\u00e8le au viaduc, passerelle liant les deux rives de Conflans",
+        "objectid": 57,
+        "histo1": "1985",
+        "elem_princ": "Passerelle-poutres lat\u00e9rales en treillis m\u00e9tallique, deux postes d'observation en avanc\u00e9e sur le fleuve. Statue de Saint-Nicolas contre la premi\u00e8re pile.",
+        "elem_patri": "Passerelle Saint-Nicolas",
+        "commentair": "",
+        "location_X": 48.98870433436251,
+        "location_Y": 2.082926999293705,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "30be59d07eb98d21030cdee9d763d60099c16d35",
+      "fields": {
+        "commune": "Maisons-Laffitte",
+        "ensem2": "Relie Maisons-Laffitte et Sartrouville, prenant appui sur l'\u00eele de la Commune",
+        "objectid": 59,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arches de plein cintre en m\u00e9tal et vo\u00fbtes en pierres.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.94145346510266,
+        "location_Y": 2.151108349517196,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "060512f3f8c7b63ed9fef11e1c045ce9c4e0cb81",
+      "fields": {
+        "commune": "Bougival",
+        "ensem2": "Relie Bougival et l'\u00efle de La Loge",
+        "objectid": 65,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-barrage \u00e0 poutres en b\u00e9ton, avec cabine technique en avanc\u00e9e sur le pont",
+        "elem_patri": "Pont-barrage de l'Ile  de la Loge",
+        "commentair": "",
+        "location_X": 48.871543302563154,
+        "location_Y": 2.1253597334654577,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "005f893c0f6d5ab490f77071b174c69e3feb5ddb",
+      "fields": {
+        "commune": "Carri\u00e8res-sur-Seine",
+        "ensem2": "Pont pour le r\u00e9seau RER entre Carri\u00e8res-sur-Seine et Nanterre, prenant appui sur l'Ile Fleurie",
+        "objectid": 70,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.90791598774548,
+        "location_Y": 2.1960304629007883,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2947528146cbac5827d5b0523d4a63926d8c034c",
+      "fields": {
+        "commune": "l'Ile-Saint-Denis",
+        "ensem2": "Viaduc autoroutier de l' A 86.entre Saint-Ouen, l'Ile-Saint-Denis et Villeneuve-la-Garenne-Argenteuil et Genenvilliers",
+        "objectid": 80,
+        "histo1": "1983 - 1989",
+        "elem_princ": "Pont-poutres double en b\u00e9ton",
+        "elem_patri": "Viaduc de l'autoroute A 86",
+        "commentair": "",
+        "location_X": 48.92699828989634,
+        "location_Y": 2.334940492117572,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "00d1106dbcbd9e6e87555251c94a6f6bc33cb320",
+      "fields": {
+        "commune": "Asni\u00e8res-sur-Seine",
+        "ensem2": "Relie Clichy et Asni\u00e8res",
+        "objectid": 86,
+        "histo1": "1912",
+        "elem_princ": "Pont en arc, \u00e0 arches surbaiss\u00e9es m\u00e9talliques et piles de pierres.",
+        "elem_patri": "Pont d'Asni\u00e8res",
+        "commentair": "",
+        "location_X": 48.90418643850897,
+        "location_Y": 2.288703677390691,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c67b761afaa9424344f85f0a90e3a3b5c36627dd",
+      "fields": {
+        "commune": "Asni\u00e8res-sur-Seine",
+        "ensem2": "Relie Clichy et Asni\u00e8res",
+        "objectid": 87,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Large pont-poutres m\u00e9tallique, piles en pierre.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.90351476452061,
+        "location_Y": 2.287440737858582,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2adb0e4a7834468f9d2ba01b96373232f4b86134",
+      "fields": {
+        "commune": "Issy-les-Moulineaux",
+        "ensem2": "Relie Issy-les-Moulineaux et Boulogne-Billancourt s'appuyant sur l'Ile-Saint-Germain",
+        "objectid": 103,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 arches surbaiss\u00e9es en b\u00e9ton et acier",
+        "elem_patri": "Pont d'Issy",
+        "commentair": "",
+        "location_X": 48.83033946407785,
+        "location_Y": 2.2594505805510186,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2a9d9f08fb34f637974d46ec80b60931fc24261d",
+      "fields": {
+        "commune": "Choisy-le-Roi",
+        "ensem2": "Relie le vieux Choisy et le quartier des Gondoles",
+        "objectid": 110,
+        "histo1": "1985",
+        "elem_princ": "Double pont-poutres en b\u00e9ton.",
+        "elem_patri": "Viaduc de l'A 86",
+        "commentair": "",
+        "location_X": 48.775525514313706,
+        "location_Y": 2.4129631670928555,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ed6ec308befdc3a417623ec2627f7ec005d17fa6",
+      "fields": {
+        "commune": "Choisy-le-Roi",
+        "ensem2": "Relie les deux rives de Choisy-le-Roi",
+        "objectid": 111,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique",
+        "elem_patri": "Pont de l'Appel du 18 Juin 1940 - G\u00e9n\u00e9ral de Gaulle",
+        "commentair": "",
+        "location_X": 48.76636459747356,
+        "location_Y": 2.412283151600279,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f85f95264c3b76a8a259cdf6e66b84c90edf34e4",
+      "fields": {
+        "commune": "Athis-Mons",
+        "ensem2": "Relie Vigneux-sur-Seine et Athis-Mons, passerelle",
+        "objectid": 114,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Surplombant le barrage-\u00e9cluse, passerelle-poutres en b\u00e9ton",
+        "elem_patri": "Passerelle de l'\u00e9cluse d'Ablon",
+        "commentair": "",
+        "location_X": 48.71903128292995,
+        "location_Y": 2.416704764199668,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f500b5fbce09113aa54801131b2ea21300e4a367",
+      "fields": {
+        "commune": "Juvisy-sur-Orge",
+        "ensem2": "Relie Juvisy-sur-Orge et Draveil",
+        "objectid": 116,
+        "commentair": "Remplace 3 ponts ant\u00e9rieurs.",
+        "histo1": "1968",
+        "elem_princ": "Pont-poutres, tablier en b\u00e9ton.",
+        "elem_patri": "Pont de la premi\u00e8re arm\u00e9e fran\u00e7aise",
+        "location_X": 48.6890216231769,
+        "location_Y": 2.3881376022350387,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "42eecec1693b223b1b17f7a473b884dc897757d1",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "Pont reliant la rive gauche \u00e0 l'\u00eele Saint-Etienne",
+        "objectid": 126,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont Mar\u00e9chal Leclerc",
+        "commentair": "",
+        "location_X": 48.535445116044876,
+        "location_Y": 2.6576352577445346,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9acb903a469c0651f572b3b451157e6211584b28",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "Pont reliant la rive gauche \u00e0 l'\u00eele Saint-Etienne",
+        "objectid": 128,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont Notre-Dame",
+        "commentair": "",
+        "location_X": 48.53479976780731,
+        "location_Y": 2.659436931305243,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0bca459bb5d3be5b62c75a5212fda47fcd51ff23",
+      "fields": {
+        "commune": "Fontaine-le-Port",
+        "ensem2": "Relie Fontaine-le-Port et la For\u00eat de Fontainebleau",
+        "objectid": 131,
+        "commentair": "Endroit de passage fr\u00e9quent\u00e9 du fait de la pr\u00e9sence d'un gu\u00e9 d\u00e8s le XIIe si\u00e8cle. La Seine \u00e9tait aussi utilis\u00e9e pour les moines de l'Abbaye de Barbeau, permettant le transport de leurs productions de vin jusqu'\u00e0 Paris. Au XIXe si\u00e8cle, les activi",
+        "histo1": "1862 puis 1872 puis 1941",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont routier",
+        "location_X": 48.48595153758781,
+        "location_Y": 2.7522336840848807,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a8c0bfad5f295b4360e6e8b80ce1c4aff3a262c0",
+      "fields": {
+        "commune": "La Grande-Paroisse",
+        "objectid": 135,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont en bow-string (arcs et cordes) en b\u00e9ton arm\u00e9, arches en acier.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "ensem2": "rien",
+        "location_X": 48.38199623084938,
+        "location_Y": 2.9271441893213703,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f4016335affe00bbf3c21902c25261a499514b60",
+      "fields": {
+        "commune": "Marolles-sur-Seine",
+        "ensem2": "Relie les deux rives de Marolles-sur-Seine",
+        "objectid": 141,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton et treillis m\u00e9tallique \u00e0 l'entr\u00e9e du pont.",
+        "elem_patri": "Pont de Montereau",
+        "commentair": "",
+        "location_X": 48.388526712650915,
+        "location_Y": 3.034160329708406,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bcbf46a9388e14c17c2f213012a51195315d6de5",
+      "fields": {
+        "commune": "Noyen-sur-Seine",
+        "ensem2": "Entre les deux rives de Noyen-sur-Seine",
+        "objectid": 163,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Barrage en b\u00e9ton \u00e0 trois trav\u00e9es, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Barrage-\u00e9cluse du Vezoult",
+        "commentair": "",
+        "location_X": 48.45056169285293,
+        "location_Y": 3.322259843621069,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8b4c3daf2c7db8d2b7a99313d0f7e0eab2750a24",
+      "fields": {
+        "commune": "Alfortville",
+        "ensem2": "Entre Alfortville et Vitry-sur-Seine",
+        "objectid": 166,
+        "commentair": "Passerelle de service \u00e0 destination de la centrale gazi\u00e8re.",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Passerelle-poutres \u00e0 treillis m\u00e9tallique",
+        "elem_patri": "Passerelle de service",
+        "location_X": 48.78072902890721,
+        "location_Y": 2.4173706834192674,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a89761b496aa904ed0aedfea31d5fd30c0020ad4",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "A la limite entre Charenton-le-Pont et Saint-Maurice et Maisons-Alfort",
+        "objectid": 170,
+        "commentair": "Aurait \u00e9t\u00e9 reconstruit 18 fois depuis l'\u00e9poque romaine. En 1436, le pr\u00e9v\u00f4t de Paris, Simon Morhier, alli\u00e9 des Anglais qui occupent la capitale, est fait prisonnier par les troupes du roi Charles VII de France lors d'un engagement au pont de Charent",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 une trav\u00e9e",
+        "elem_patri": "Pont de Charenton",
+        "location_X": 48.81687487264834,
+        "location_Y": 2.4197904917646387,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2b8e993ca60b1d96ddc4d7cc63f7f00225ad1004",
+      "fields": {
+        "commune": "Neuilly-Plaisance",
+        "ensem2": "Entre Neuilly-Plaisance et Noisy-le-Grand",
+        "objectid": 191,
+        "commentair": "Pont du RER A",
+        "histo1": "1977",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 deux trav\u00e9es dont une enjambant la voie",
+        "elem_patri": "Viaduc de Neuilly-Plaisance",
+        "location_X": 48.85131946253404,
+        "location_Y": 2.5157266330640162,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a86e6b0f15940a51b45c24cf0d5a436ecc94317e",
+      "fields": {
+        "commune": "Isles-l\u00e8s-Villenoy",
+        "ensem2": "Pont reliant Esbly et Isles-l\u00e8s-Villenoy",
+        "objectid": 206,
+        "commentair": "R\u00e9alis\u00e9 par Freyssinet, suite \u00e0 un concours des Ponts et Chauss\u00e9es lanc\u00e9 en 1946. Rempla\u00e7ant 3 anciens ponts, le pont a servi de prototype \u00e0 une s\u00e9rie de 5 ponts de m\u00eame port\u00e9e. Une usine de construction en s\u00e9rie de voussoirs pr\u00e9fabriqu\u00e9s a",
+        "histo1": "1948",
+        "elem_princ": "Pont-poutres \u00e0 une voie d'eau en b\u00e9ton pr\u00e9fabriqu\u00e9 et pr\u00e9contraint",
+        "elem_patri": "Pont de la Lib\u00e9ration",
+        "location_X": 48.9116318169875,
+        "location_Y": 2.8151652820297435,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "863179196f6fe5860c88d18a5ba0925698a2cb7b",
+      "fields": {
+        "commune": "Germigny-l'Ev\u00eaque",
+        "ensem2": "Entre Varreddes et Germigny-l'Ev\u00eaque, pont",
+        "objectid": 216,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 trois voies d'eau",
+        "elem_patri": "Pont de la D97",
+        "commentair": "",
+        "location_X": 48.99395939038707,
+        "location_Y": 2.9375751620146113,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8f42e1a2bbc770ea0e27114dba9bb9632d914e9b",
+      "fields": {
+        "commune": "Germigny-l'Ev\u00eaque",
+        "ensem2": "Sur les deux rives, restes de l'ancien pont aujourd'hui en promotoires sur la Marne",
+        "objectid": 217,
+        "commentair": "Pont non reconstruit apr\u00e8s avoir \u00e9t\u00e9 d\u00e9moli pendant la seconde guerre mondiale. La rue du pont qui subsiste t\u00e9moigne toujours de l'ancien pont.",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Cul\u00e9e et tablier restant de l'ancien pont en meuli\u00e8re, tablier m\u00e9tallique",
+        "elem_patri": "Ancien pont",
+        "location_X": 48.99409572346237,
+        "location_Y": 2.9418117046649677,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3bd906e408f2612598fa0fa4cc56d1dae1fbb4cf",
+      "fields": {
+        "commune": "Isles-les-Meldeuses",
+        "ensem2": "Entre Isles-les-Meldeuses et Mary-sur-Marne, prenant appui sur une \u00eele, pont routier",
+        "objectid": 219,
+        "commentair": "En t\u00eate du pont, fondation Borniche, ch\u00e2teau de style Napol\u00e9onien construit en 1842, aujourd'hui foyer d\u00e9partemental de l'enfance.",
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Pont-poutres \u00e0 trois trav\u00e9es en b\u00e9ton",
+        "elem_patri": "Pont de la D17",
+        "location_X": 49.01337728146864,
+        "location_Y": 3.0245934939250554,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "75bda8d44c7869c87140af6aee5ae81e82c8ffe5",
+      "fields": {
+        "commune": "La Fert\u00e9-sous-Jouarre",
+        "ensem2": "Reliant les deux rives de la Fert\u00e9-sous-Jouarre, pont",
+        "objectid": 224,
+        "commentair": "En t\u00eate de pont, m\u00e9morial britannique en m\u00e9moire des soldats anglais tomb\u00e9s durant la premi\u00e8re bataille de la Marne.",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 deux trav\u00e9es en b\u00e9ton",
+        "elem_patri": "Pont Jean Jaur\u00e8s",
+        "location_X": 48.94454103202188,
+        "location_Y": 3.12458411064317,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4ace3b64bcda105c84d388864d3b1b68e4ee046c",
+      "fields": {
+        "commune": "Montereau-Fault-Yonne",
+        "ensem2": "Le long d'un quai plant\u00e9, sur la rive gauche du fleuve, lin\u00e9aire de maisons de bourg ayant fa\u00e7ade sur Seine",
+        "objectid": 261,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Ensemble de maisons R+1+C, la plupart en enduit et pierres de taille avec mod\u00e9natures.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.38802119511001,
+        "location_Y": 2.956355423374552,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1a680e15f3739848365ea2d17a6b7c7463f0042f",
+      "fields": {
+        "commune": "Montereau-Fault-Yonne",
+        "ensem2": "Sur la rive droite de la Seine, court lin\u00e9aire de maisons de bourg",
+        "objectid": 262,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Certaines maisons ont un double perron. Au n\u00b016, vaste maison de bourg avec double perron, fa\u00e7ade sym\u00e9trique et balcon central en R+1.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.38946942116821,
+        "location_Y": 2.9578661476683363,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3ca3a51b369736e3ae9ed8cd05adf4a8fecfb1f0",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "Le long d'un quai plant\u00e9, front de berge compos\u00e9 essentiellement de maisons de bourg",
+        "objectid": 274,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Lin\u00e9aire R+1+C \u00e0 R+2. A noter particuli\u00e8rement du n\u00b072 et 74, 2 maisons de ville entre cour et jardin. Au n\u00b074, maison de ville en pierre de taille ; au n\u00b076, maison de bourg en meuli\u00e8re de style pittoresque.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.95636998254126,
+        "location_Y": 2.8805033710015056,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "21345d65b793714af42e5d23a13b84814d8d6636",
+      "fields": {
+        "commune": "Varreddes",
+        "ensem2": "En bord de Marne et en bord de route, ancien moulin \u00e0 eau",
+        "objectid": 277,
+        "histo1": "XVIIIe si\u00e8cle",
+        "elem_princ": "Ensemble ceint d'un haut mur en pierres avec chaperon en tuiles avec pigeonnier donnant sur rue et logis. Logis : R+1+C en contrebas de la route, de plan rectangulaire",
+        "elem_patri": "Ancien moulin",
+        "commentair": "",
+        "location_X": 48.995452144822885,
+        "location_Y": 2.9420102253925005,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6a02b09094edad814dc85e419635f11a13edaa26",
+      "fields": {
+        "commune": "Chatou",
+        "ensem2": "Entre Chatou et l'\u00eele de Chatou, barrage",
+        "objectid": 155,
+        "commentair": "Le barrage remplace un barrage de 1933, tr\u00e8s d\u00e9grad\u00e9, d\u00e9moli en 2014.",
+        "histo1": "2013",
+        "elem_princ": "Barrage \u00e0 trois voies d'eau en b\u00e9ton, surplomb\u00e9 d'une passerelle technique en m\u00e9tal",
+        "elem_patri": "Barrage-\u00e9cluse de Chatou",
+        "location_X": 48.894480777885605,
+        "location_Y": 2.1637734664151616,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "23c5eb1e55a98954fa280a0fee3124b4c61b6c2f",
+      "fields": {
+        "commune": "Jaulnes",
+        "ensem2": "Entre les deux rives de Jaulnes",
+        "objectid": 162,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Barrage en b\u00e9ton \u00e0 trois trav\u00e9es, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Barrage-\u00e9cluse de Jaulnes",
+        "commentair": "",
+        "location_X": 48.41947699171622,
+        "location_Y": 3.2691438924306695,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "07e30c8120d1f88642eaba1561780d5701c17a3a",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Passerelle entre Saint-Maur-des-Foss\u00e9s et Cr\u00e9teil",
+        "objectid": 175,
+        "commentair": "Ancien emplacement du bac, remplac\u00e9 par une premi\u00e8re passerelle m\u00e9tallique en 1898 puis d\u00e9molie en 1969 pour \u00eatre remplac\u00e9e par l'actuelle en b\u00e9ton arm\u00e9. Aboutit sur le port de Saint-Maur rive droite.",
+        "histo1": "1969",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 une trav\u00e9e, l\u00e9g\u00e8rement bomb\u00e9 en son centre ; sortie pi\u00e9tons et cycle rive gauche par deux rampes et un escalier ; un escalier et une rampe rive droite",
+        "elem_patri": "Passerelle du Hallage",
+        "location_X": 48.804582658958026,
+        "location_Y": 2.4679245563335446,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5fd53a402f42dd539f335e2a44971a1c39b069da",
+      "fields": {
+        "commune": "Champigny-sur-Marne",
+        "ensem2": "Entre Champigny-sur-Marne et Saint-Maur-des-Foss\u00e9s",
+        "objectid": 183,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont-poutres \u00e0 treillis m\u00e9tallique, piles en pierres, \u00e0 deux trav\u00e9es",
+        "elem_patri": "Viaduc ferroviaire de Champigny",
+        "commentair": "",
+        "location_X": 48.81068525615161,
+        "location_Y": 2.503203174999903,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "aacddbb952c0e71c943c8bc3a621afbe3e04ac72",
+      "fields": {
+        "commune": "Annet-sur-Marne",
+        "ensem2": "Enjambant la Marne entre les deux rives d'Annet-sur-Marne",
+        "objectid": 203,
+        "commentair": "Ce pont a remplac\u00e9 un ancien bac. Le pont actuel, rempla\u00e7ant 3 anciens ponts, a \u00e9t\u00e9 construit par Eug\u00e8ne Freyssinet, c'est un des tous premiers \u00e0 utiliser la technique du b\u00e9ton pr\u00e9contraint. C'est l'un des cinq ponts sur la Marne dessin\u00e9 par Fre",
+        "histo1": "1949",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 une voie d'eau, remplissage en b\u00e9ton pr\u00e9fabriqu\u00e9 et pr\u00e9contraint",
+        "elem_patri": "Pont de la D45",
+        "location_X": 48.9216552110877,
+        "location_Y": 2.724709414801602,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7b9d31defc1ba4397654b9c7589ff9398388e463",
+      "fields": {
+        "commune": "Isles-l\u00e8s-Villenoy",
+        "ensem2": "Pont reliant les deux rives d'Isles-l\u00e8s-Villenoy",
+        "objectid": 207,
+        "commentair": "Le pont a remplac\u00e9 un ancien bac.",
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 cinq voies d'eau, remplissage brique, chainage des arches de plein cintre en pierres de taille",
+        "elem_patri": "Pont ferroviaire",
+        "location_X": 48.908445109185735,
+        "location_Y": 2.830761284176804,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d634001ec0f57c5b2d9fac02e2f57e6768a2a253",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "Reliant Villenoy et Meaux, barrage",
+        "objectid": 209,
+        "commentair": "La passerelle, en mauvais \u00e9tat, devrait \u00eatre remplac\u00e9e \u00e0 l'horizon 2020 par VNF.",
+        "histo1": "1939",
+        "elem_princ": "Barrage surmont\u00e9 d'une passerelle de service \u00e0 poutres lat\u00e9rales m\u00e9talliques en treillis",
+        "elem_patri": "Barrage de Meaux",
+        "location_X": 48.95236810239533,
+        "location_Y": 2.8750615021653294,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "17be6e9fa6a9a9edf401e95dce0d8aa44677bf1f",
+      "fields": {
+        "commune": "Chamigny",
+        "ensem2": "Entre Chamigny et Luzancy, pont",
+        "objectid": 226,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Pont-poutres",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.980248989728025,
+        "location_Y": 3.1656621982767694,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "93161fa6121f55de499642f0ca6d263b67e0e618",
+      "fields": {
+        "commune": "Evry",
+        "ensem2": "Relie Evry et Etiolles",
+        "objectid": 232,
+        "commentair": "Pont d\u00e9truit en 1940.",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Ruines de l'ancien pont suspendu dont il subsiste quelques arches, en pierres et briques.",
+        "elem_patri": "Ancien pont suspendu d'Etiolles",
+        "location_X": 48.63715508954042,
+        "location_Y": 2.4563353260676815,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0b133768a61a78a57cd0bd55d918eb062eb5a42b",
+      "fields": {
+        "commune": "Meulan-en-Yvelines",
+        "ensem2": "T\u00eate de pont avec perspective donnant sur l'h\u00f4tel de ville.",
+        "objectid": 234,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Immeuble R+2+C, \u00e0 l'angle de deux voies, plan \u00e0 pan coup\u00e9. Lucarnes \u00e0 volutes, balcon en R+1.",
+        "elem_patri": "T\u00eate du Pont aux Perches",
+        "commentair": "",
+        "location_X": 49.004631071873725,
+        "location_Y": 1.9099200310812696,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c43d4c33f6818d167889f4019ea5b1a345ee6174",
+      "fields": {
+        "commune": "Gargenville (Rangiport)",
+        "ensem2": "Ensemble de vill\u00e9giatures et maisons de bourg en front de Seine",
+        "objectid": 245,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Au n\u00b016, vill\u00e9giature de type anglo-normande",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.976844306056094,
+        "location_Y": 1.814917478670984,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d08fca518e02658773016ff62cbdc1beeb8e5201",
+      "fields": {
+        "commune": "Choisy-le-Roi",
+        "ensem2": "A la t\u00eate du pont de Choisy, immeuble d'angle",
+        "objectid": 249,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Immeuble d'angle \u00e0 pan cass\u00e9, R+6+C en pierres de taille et briques",
+        "elem_patri": "T\u00eate du pont de Choisy",
+        "commentair": "",
+        "location_X": 48.765175797221396,
+        "location_Y": 2.40996540548412,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "e9ea855f1babee5c297edfa057f6db17f52c0283",
+      "fields": {
+        "commune": "Le Coudray-Montceaux",
+        "ensem2": "Sur la rive gauche de la Seine, front de Seine constitu\u00e9 de vill\u00e9giatures",
+        "objectid": 255,
+        "histo1": "XIXe - XXe si\u00e8cles",
+        "elem_princ": "Maisons R+1+C de styles vari\u00e9s (anglo-normand, pierres de taille\u2026), toutes pr\u00e9c\u00e9d\u00e9es d'un jardinet clotur\u00e9",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.56637947572795,
+        "location_Y": 2.4952118080306005,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9ce33b254b859911b18e1b3f3533af85847447f7",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "Sur la rive droite, t\u00eate de pont compos\u00e9 de deux b\u00e2timents dont l'angle est trait\u00e9 en rotonde",
+        "objectid": 256,
+        "histo1": "XIXe si\u00e8cle (fin) - XXe si\u00e8cle (d\u00e9but)",
+        "elem_patri": "T\u00eate du pont Jeanne d'Arc",
+        "commentair": "",
+        "elem_princ": "pas d'element principal",
+        "location_X": 48.537712771965104,
+        "location_Y": 2.6590970193183505,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "af53b00249f0b9f3f44b5fec49f279132887e916",
+      "fields": {
+        "commune": "Colombes",
+        "ensem2": "A la t\u00eate du pont-aqueduc de Colombes, usine \u00e9l\u00e9vatrice des eaux",
+        "objectid": 283,
+        "histo1": "1901",
+        "elem_princ": "Deux halles accol\u00e9es, structure m\u00e9tallique, remplissage briques bicolores et terre cuite. Edifice abritant la Cit\u00e9 de l'eau du SIAAP.",
+        "elem_patri": "Usine \u00e9l\u00e9vatoire des eaux",
+        "commentair": "",
+        "location_X": 48.93175415038513,
+        "location_Y": 2.2446195470627432,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6c0f680ee0516d907900367cb54861bfabb23418",
+      "fields": {
+        "commune": "Saint-Denis",
+        "ensem2": "Sur les deux rives du pont, t\u00eate de pont b\u00e2tie",
+        "objectid": 285,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "C\u00f4t\u00e9 Ile-Saint-Denis. A gauche : h\u00f4tel de ville formant t\u00eate de pont.",
+        "elem_patri": "T\u00eate du pont de l'Ile-Saint-Denis",
+        "commentair": "",
+        "location_X": 48.935669693315816,
+        "location_Y": 2.3420154443255217,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "e07288dbe1996ff0e096196470a6c4903a0064ce",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les 15\u00e8me et 16\u00e8me arrondissement",
+        "objectid": 3,
+        "histo1": "1968",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont Aval",
+        "commentair": "",
+        "location_X": 48.83478736099964,
+        "location_Y": 2.2638934070318566,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3ec5e912d16b6ea77519188abaaf74f5dbc8f3e4",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les 15\u00e8me et 16\u00e8me arrondissement, prenant appui sur l'\u00eele aux Cygnes",
+        "objectid": 5,
+        "commentair": "Le pont fut construit \u00e0 l'occasion de l'Exposition universelle de 1900. Abandonn\u00e9 en 1937, il a \u00e9t\u00e9 remis en service en 1988.",
+        "histo1": "1900",
+        "elem_princ": "Structure diff\u00e9renci\u00e9e : rive gauche, pont vo\u00fbt\u00e9 en pierres ; rive droite, pont en arc en pierres, arche m\u00e9tallique",
+        "elem_patri": "Pont ferroviaire Rouelle",
+        "location_X": 48.85241518767818,
+        "location_Y": 2.2831806966890777,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9064aa9cf2624bbee7a95c7560674c1824e548dd",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 7\u00e8me et le 8\u00e8me arrondissement",
+        "objectid": 10,
+        "commentair": "Ce pont a \u00e9t\u00e9 construit lors de l'Exposition universelle de 1900. La 1ere pierre pos\u00e9e par le tsar Nicolas II de Russie symbolise l'amiti\u00e9 franco-russe, d'o\u00f9 son nom de pont Alexandre III.",
+        "histo1": "1900",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 en acier moul\u00e9 peint. 4 colonnes carr\u00e9es supportant des statues dor\u00e9es.",
+        "elem_patri": "Pont Alexandre III",
+        "location_X": 48.86368996480527,
+        "location_Y": 2.313562946948568,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7534c5bdd2228bf4e44200481e6cb499cadc199d",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai Voltaire et le quai des Tuileries",
+        "objectid": 12,
+        "histo1": "1689",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arches de plein cintre.",
+        "elem_patri": "Pont Royal",
+        "commentair": "",
+        "location_X": 48.860141417851416,
+        "location_Y": 2.3299213356673727,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5ae6be33cba89a2c5b72e738f57cf1e9cdc7a893",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le Quai de Gesvres et l'\u00eele de la Cit\u00e9",
+        "objectid": 17,
+        "commentair": "Pont aux origines romaines, reb\u00e2ti 5 fois.",
+        "histo1": "1853 - 1919",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 en pierre et en m\u00e9tal. Arches en pierre sont orn\u00e9es d'une t\u00eate de b\u00e9lier.",
+        "elem_patri": "Pont Notre-Dame",
+        "location_X": 48.85610214986687,
+        "location_Y": 2.348580980320021,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "122a5a6588ca926c7b0e8edd6c0d5b416c1c3830",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai Saint-Michel et l'\u00eele de la Cit\u00e9",
+        "objectid": 18,
+        "commentair": "Ce pont aux origines romaines a \u00e9t\u00e9 l'un des premiers de la ville. Il a \u00e9t\u00e9 plusieurs fois reb\u00e2ti.",
+        "histo1": "1853",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre meuli\u00e8re \u00e0 une arche surbaiss\u00e9e",
+        "elem_patri": "Petit-Pont - Cardinal Lustiger",
+        "location_X": 48.85334292022632,
+        "location_Y": 2.3469701811955153,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c0ba1a2958f668f1d98176c3a5e10fffef055ac8",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai d'Austerlitz et le quai de la Rap\u00e9e",
+        "objectid": 28,
+        "histo1": "1903 - 1904",
+        "elem_princ": "Pont en arc en pierres de taille \u00e0 tablier suspendu en acier \u00e0 suspentes.",
+        "elem_patri": "Viaduc ferroviaire d'Austerlitz",
+        "commentair": "",
+        "location_X": 48.843716707349834,
+        "location_Y": 2.368067671963716,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "07a4fed14e20fa4373e37bb889f5a4886a577e57",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 7\u00e8me et 16\u00e8me arrondissement.",
+        "objectid": 34,
+        "commentair": "Construite \u00e0 l'occasion de l'exposition universelle de 1900.",
+        "histo1": "1900",
+        "elem_princ": "Passerelle en arc, \u00e0 charpente m\u00e9tallique, \u00e0 tablier interm\u00e9diaire",
+        "elem_patri": "Passerelle Debilly",
+        "location_X": 48.86260160744502,
+        "location_Y": 2.29691320834444,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ad6632d7cb50eb89895d94aa8f510f02c69f046a",
+      "fields": {
+        "commune": "Gennevilliers",
+        "ensem2": "Relie Argenteuil et Gennevilliers",
+        "objectid": 75,
+        "histo1": "XXe si\u00e8cle (fin)",
+        "elem_princ": "Pont-poutres lat\u00e9rales \u00e0 treillis en m\u00e9tal, piles en b\u00e9ton.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.943245072405624,
+        "location_Y": 2.2605551567678046,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "11d1adf74c1dbc1637b8da57a7f536dc65952058",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les quais de Bercy et Fran\u00e7ois Mauriac pour les berges basses et entre le parc de Bercy et le parvis de la Biblioth\u00e8que Fran\u00e7ois Mitterand pour les parties hautes.",
+        "objectid": 37,
+        "histo1": "2006",
+        "elem_princ": "Passerelle en acier \u00e0 structure arc-cat\u00e8ne.",
+        "elem_patri": "Passerelle Simone-de-Beauvoir",
+        "commentair": "",
+        "location_X": 48.835216606466204,
+        "location_Y": 2.377994227645805,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8d19133a29b5ac2acc8bcf74d1089e382256d0da",
+      "fields": {
+        "commune": "Mantes-la-Jolie",
+        "ensem2": "Pont de la ligne Paris-Rouen prenant appui sur l'\u00eele de Limay",
+        "objectid": 41,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle et fin XIXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton c\u00f4t\u00e9 Mantes ; en pierre c\u00f4t\u00e9 Limay.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.983095558085225,
+        "location_Y": 1.7306546738671327,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "91de8f2a20dfc45d2ab2f09968c51b2a729b8bf9",
+      "fields": {
+        "commune": "Poissy",
+        "ensem2": "Reliait autrefois Poissy \u00e0 Carri\u00e8res-sous-Poissy",
+        "objectid": 53,
+        "commentair": "Etude en 2010 par le Conseil g\u00e9n\u00e9ral d'une passerelle sur les anciennes piles, relanc\u00e9e en 2014.",
+        "histo1": "1944, destruction par bombardement",
+        "elem_princ": "Il ne reste que cinq piles en pierres",
+        "elem_patri": "Ancien Pont de Poissy",
+        "location_X": 48.933418188996356,
+        "location_Y": 2.037688467720877,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bc999519553882f18fd667f2984ec5a7a4058ed2",
+      "fields": {
+        "commune": "Le Pecq",
+        "ensem2": "Pont reliant les 2 rives du Pecq, prenant appui sur l'Ile Corbi\u00e8re",
+        "objectid": 63,
+        "histo1": "1847 - 1885",
+        "elem_princ": "Pont-poutres \u00e0 treillis m\u00e9tallique ; le pont se poursuit en viaduc au-dessus des quais rive gauche avec de hautes arches de plein cintre.",
+        "elem_patri": "Viaduc du chemin de fer",
+        "commentair": "",
+        "location_X": 48.90321811942285,
+        "location_Y": 2.1108592369086727,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f08eaf7097f7f14c5d6a441334d7a15f434a735c",
+      "fields": {
+        "commune": "Le Pecq",
+        "ensem2": "Relie les deux rives du Pecq",
+        "objectid": 64,
+        "histo1": "1963",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique. Statues \u00e0 l'entr\u00e9e du pont repr\u00e9sentant la Seine et l'Oise.",
+        "elem_patri": "Pont du Pecq",
+        "commentair": "",
+        "location_X": 48.897890141989976,
+        "location_Y": 2.10863784365553,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "227383141139a63525061c4dce0320ba36298037",
+      "fields": {
+        "commune": "Bougival",
+        "ensem2": "Relie Bougival et Croissy-sur-Seine, prenant appui sur l'\u00eele Gautier",
+        "objectid": 66,
+        "commentair": "A la hauteur de l'Ile Gautier (parking) point de d\u00e9part des circuits Claude Monet et Berthe Morizot.",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton.",
+        "elem_patri": "Pont mar\u00e9chal de Lattre-de-Tassigny",
+        "location_X": 48.869127466757035,
+        "location_Y": 2.137255496669739,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "fdc666c07f93ea3ae5c93fd9f59e6ab859561e11",
+      "fields": {
+        "commune": "Chatou",
+        "ensem2": "Relie Chatou et Rueil-Malmaison, prenant appui sur l'Ile des Impressionnistes qu'il dessert",
+        "objectid": 68,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique.",
+        "elem_patri": "Pont de Chatou",
+        "commentair": "",
+        "location_X": 48.888397198155694,
+        "location_Y": 2.1621122738914917,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4f1f166e97a8c046aa51b0001c3cb3b8512807d3",
+      "fields": {
+        "commune": "Argenteuil",
+        "ensem2": "Relie Colombes et Argenteuil pour la travers\u00e9e de la D 15",
+        "objectid": 73,
+        "commentair": "Le pont-aqueduc a \u00e9t\u00e9 construit pour permettre l'assainissement de la capitale. Celui-ci est \u00e9troitement associ\u00e9 \u00e0 l'usine \u00e9l\u00e9vatoire de Colombes qui la jouxte.",
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Pont-poutres cantilever en m\u00e9tal.",
+        "elem_patri": "Pont-aqueduc de Colombes",
+        "location_X": 48.93291250663377,
+        "location_Y": 2.241733141649711,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4d3aca91deb4015540e776606d0b4452f76c9c04",
+      "fields": {
+        "commune": "Epinay-sur-Seine",
+        "ensem2": "Pont en deux sections allant d'Epinay-sur-Seine \u00e0 Gennevilliers \u00e0 la pointe nord de l'Ile Saint-Denis.",
+        "objectid": 78,
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont-poutres en b\u00e9ton arm\u00e9.",
+        "elem_patri": "Pont d'Epinay",
+        "commentair": "",
+        "location_X": 48.95027344029467,
+        "location_Y": 2.3066596035093823,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9b7e7b0e1fdbe23c0ab2882e89173d48699e77aa",
+      "fields": {
+        "commune": "Clichy-la-Garenne",
+        "ensem2": "Pont traversant pour le D19 entre Asni\u00e8res-sur-seine et Clichy-la-Garenne",
+        "objectid": 84,
+        "commentair": "A proximit\u00e9 Le Cimeti\u00e8re des Chiens d'Asni\u00e8res (Curiosit\u00e9)",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres, jumel\u00e9 avec le pont ferroviaire en b\u00e9ton pr\u00e9contraint",
+        "elem_patri": "Pont de Clichy",
+        "location_X": 48.90956127637159,
+        "location_Y": 2.299524796522799,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8d376e97fc20c9f56e7e466e3bda6138fe47de6a",
+      "fields": {
+        "commune": "Suresnes",
+        "ensem2": "Relie Suresnes et le Bois de Boulogne",
+        "objectid": 94,
+        "histo1": "1938-1950 : remplace un pont de 1839 puis un second de 1874",
+        "elem_princ": "Pont-poutres \u00e0 arches surbaiss\u00e9es en b\u00e9ton",
+        "elem_patri": "Pont de Suresnes",
+        "commentair": "",
+        "location_X": 48.86677941835608,
+        "location_Y": 2.229839718016203,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "523477e62b26afee65488f407683a64723daa22d",
+      "fields": {
+        "commune": "Saint-Cloud",
+        "ensem2": "Aqueduc franchissant la Seine entre Saint-Cloud et Paris",
+        "objectid": 95,
+        "commentair": "L'aqueduc de l'Avre est l'un des ouvrages permettant l'alimentation en eau de Paris.",
+        "histo1": "1891",
+        "elem_princ": "Passerelle pi\u00e9tonne m\u00e9tallique ; l'aqueduc passe en dessous.",
+        "elem_patri": "Passerelle de l'aqueduc de l'Avre",
+        "location_X": 48.852945040067354,
+        "location_Y": 2.2243089243126373,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2fce9ad30469390f64f8433ecf63a1b6e85a8050",
+      "fields": {
+        "commune": "Choisy-le-Roi",
+        "ensem2": "Relie les deux rives de Choisy-le-Roi",
+        "objectid": 112,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 tablier m\u00e9tallique et piles en b\u00e9ton.",
+        "elem_patri": "Pont de chemin de fer",
+        "commentair": "",
+        "location_X": 48.7526334966753,
+        "location_Y": 2.4244898871536806,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f3fa42793d8166555d939d8f20b22ab56c09c87c",
+      "fields": {
+        "commune": "Corbeil-Essonnes",
+        "ensem2": "Relie Corbeil-Essonnes et Saint-Pierre-du-Perray",
+        "objectid": 121,
+        "commentair": "Pont venu remplacer un ancien pont d\u00e9truit en 1944.",
+        "histo1": "1955",
+        "elem_princ": "Pont-poutres \u00e0 hauteur variable, en b\u00e9ton",
+        "elem_patri": "Pont de l'arm\u00e9e Patton",
+        "location_X": 48.613541943841994,
+        "location_Y": 2.4844845729991327,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5afefb81436663dc37dd6350a6904d5e215ac0f7",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "Pont prenant appuis sur l'\u00eele Saint-Etienne, reliant les deux rives de la ville",
+        "objectid": 124,
+        "histo1": "1950",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont de la P\u00e9n\u00e9trante",
+        "commentair": "",
+        "location_X": 48.53736816065449,
+        "location_Y": 2.6528810953275865,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1a910cad008ed8bc0016384f9100c8c5c0037983",
+      "fields": {
+        "commune": "La Rochette",
+        "ensem2": "Relie La Rochette et Vaux-le-P\u00e9nil",
+        "objectid": 129,
+        "elem_princ": "Pont-poutres, piles en pierre et tablier m\u00e9tallique",
+        "elem_patri": "Pont ferroviaire du Pet-au-Diable",
+        "commentair": "",
+        "histo1": "indetermin\u00e9",
+        "location_X": 48.51862716802406,
+        "location_Y": 2.6703438882687376,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0291f901d0c3165ff4c2f8216f0d93afc2f8630e",
+      "fields": {
+        "commune": "Tombe (la)",
+        "ensem2": "Relie les deux rives de La Tombe",
+        "objectid": 142,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont routier de la Fert\u00e9 Gaucher",
+        "commentair": "",
+        "location_X": 48.389440499277185,
+        "location_Y": 3.0902241149847844,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "857bb8a799f8595943d3ee957f6d4b9a421541d9",
+      "fields": {
+        "commune": "Balloy",
+        "ensem2": "Relie les deux rives de Balloy",
+        "objectid": 143,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont routier de la D77",
+        "commentair": "",
+        "location_X": 48.410902793860494,
+        "location_Y": 3.1437196336555147,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b162754a6971876eb32c043098b6ba613936a6ff",
+      "fields": {
+        "commune": "Meulan-en-Yvelines",
+        "ensem2": "Relie l'Ile du Fort et les Mureaux, dans la continuit\u00e9 du Pont Saint-C\u00f4me",
+        "objectid": 147,
+        "elem_princ": "Seule demeure l'ancienne cul\u00e9e en pierres.",
+        "elem_patri": "Ancien pont",
+        "commentair": "",
+        "histo1": "indetermin\u00e9",
+        "location_X": 49.00111045090256,
+        "location_Y": 1.9103648934045305,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9eef4c0b19eb015343e4835c5eb034c38935e983",
+      "fields": {
+        "commune": "Le Coudray-Montceaux",
+        "ensem2": "Relie Morsang-sur-Seine et Le Coudray-Montceaux",
+        "objectid": 148,
+        "histo1": "2012",
+        "elem_princ": "Surplombant le barrage et l'\u00e9cluse, passerelle en b\u00e9ton. Les parois du tablier sont m\u00e9talliques, refl\u00e9tant l'environnement.",
+        "elem_patri": "Barrage du Coudray-Montceaux",
+        "commentair": "",
+        "location_X": 48.57306148338959,
+        "location_Y": 2.4819868761978916,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1fffe2ecd47773a2c31f54b229a9102b103c9480",
+      "fields": {
+        "commune": "Champagne-sur-Seine",
+        "ensem2": "Relie Champagne-sur-Seine et Veneux-les-Sablons",
+        "objectid": 150,
+        "histo1": "1926",
+        "elem_princ": "Passerelle en arc \u00e0 tablier interm\u00e9diaire, en \"bow string\" en b\u00e9ton arm\u00e9 - Longueur : 250m",
+        "elem_patri": "Passerelle - aqueduc de la Voulzie",
+        "commentair": "",
+        "location_X": 48.39128312552784,
+        "location_Y": 2.7895566233397817,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "89fa42e58022307efd01b218f720f16b96c66b6c",
+      "fields": {
+        "commune": "Bois-le-Roi",
+        "ensem2": "Relie Chartrettes et Bois-le-Roi",
+        "objectid": 152,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Passerelle pi\u00e9tonne m\u00e9tallique franchissant le barrage et l'\u00e9cluse",
+        "elem_patri": "Barrage-\u00e9cluse",
+        "commentair": "",
+        "location_X": 48.48245242399407,
+        "location_Y": 2.7057701507273215,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a33fd65cb0155e8e2af3685848097080cc114d60",
+      "fields": {
+        "commune": "Villeneuve-le-Roi",
+        "ensem2": "Ancien pont reliant Villeneuve-Saint-Georges et Villeneuve-le-Roi",
+        "objectid": 154,
+        "commentair": "L'ancien pont \u00e9tait un pont suspendu construit en 1843. En 1939, un nouveau pont vint le remplacer \u00e0 c\u00f4t\u00e9.",
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Allait de l'avenue le Foll \u00e0 la rue du Pont de fer. L'avenue Le Foll se termine en impasse sur la Seine, l\u00e0 o\u00f9 il y avait originellement le pont dont il reste la cul\u00e9e.",
+        "elem_patri": "Ancien pont de Villeneuve-le-Roi",
+        "location_X": 48.72752311077177,
+        "location_Y": 2.442332363660544,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c403305fd308c050c80ca228ce02f119e855d899",
+      "fields": {
+        "commune": "Andr\u00e9sy",
+        "ensem2": "Barrage entre Andr\u00e9sy et l'\u00eele du Devant",
+        "objectid": 159,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Haut barrage en b\u00e9ton surmont\u00e9 d'une passerelle m\u00e9tallique de service couverte, \u00e0 trois trav\u00e9es, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Barrage-\u00e9cluse d'Andr\u00e9sy",
+        "commentair": "",
+        "location_X": 48.978634303570345,
+        "location_Y": 2.0622254428062305,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "646d77db7fe5dac4bfaede9d196f62b5082d02a2",
+      "fields": {
+        "commune": "Suresnes",
+        "ensem2": "Barrage entre l'\u00eele de Puteaux et Suresnes",
+        "objectid": 160,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Ecluse \u00e0 trois voies d'eau en b\u00e9ton",
+        "elem_patri": "Barrage-\u00e9cluse de Suresnes",
+        "commentair": "",
+        "location_X": 48.87079159115756,
+        "location_Y": 2.233303111240967,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "624cc8e70c399ae9c2310927fb615cbbce18ee17",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "Entre Saint-Maurice et Maisons-Alfort",
+        "objectid": 171,
+        "histo1": "XXe si\u00e8cle (2\u00e8me moiti\u00e9)",
+        "elem_princ": "Barrage en b\u00e9ton surmont\u00e9 d'une passerelle en arc \u00e0 trois trav\u00e9es, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Barrage-\u00e9cluse de Saint-Maurice",
+        "commentair": "",
+        "location_X": 48.81638972809019,
+        "location_Y": 2.424378395770389,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "fdd9606c2242e6b913db1812c79b71e96ee6fa11",
+      "fields": {
+        "commune": "Maisons-Alfort",
+        "ensem2": "Entre Maisons-Alfort et Joinville-le-Pont",
+        "objectid": 174,
+        "commentair": "En t\u00eate du pont, c\u00f4t\u00e9 Maisons-Alfort, maison de l'octroi toujours visible avec sa mention \"octroi de Maisons-Alfort\"",
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9, \u00e0 deux voies d'eau, piles en pierres de taille, tablier m\u00e9tallique \u00e0 structure apparente",
+        "elem_patri": "Pont de Maisons-Alfort",
+        "location_X": 48.8109677547276,
+        "location_Y": 2.4572454452414343,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "afcd1ecb5baf2c0b4a5c215358990e288e5b376c",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Entre Saint-Maur-des-Foss\u00e9s et Cr\u00e9teil",
+        "objectid": 176,
+        "commentair": "Auparavant, un 1er pont suspendu d'une seule trav\u00e9e d\u00e9truit vers 1870 puis un second construit en 1874 sur les plans de Joret",
+        "histo1": "1962",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 deux trav\u00e9es",
+        "elem_patri": "Pont de Cr\u00e9teil",
+        "location_X": 48.79963626017477,
+        "location_Y": 2.468967555988563,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "12df1947379d7be2c8ccc0c87f7f735f1f2a8270",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Entre Saint-Maur-des-Foss\u00e9s et Bonneuil-sur-Marne",
+        "objectid": 180,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 trois trav\u00e9es, \u00e0 larges piles ; tablier m\u00e9tallique, larges piles en pierre",
+        "elem_patri": "Pont du RER A",
+        "commentair": "",
+        "location_X": 48.78414974342406,
+        "location_Y": 2.5071322120629875,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d94ee15910c42de31a2aa0a44215db488a4f273e",
+      "fields": {
+        "commune": "Neuilly-sur-Marne",
+        "ensem2": "Entre Neuilly-sur-Marne et Gournay-sur-Marne",
+        "objectid": 195,
+        "commentair": "Demande est aujourd'hui faite par des associations pour que le pont du Ch\u00e9tivet desserve \u00e0 nouveau la rive entre Marne et canal, permettant de la d\u00e9senclaver et d'\u00e9viter une fin de promenade en impasse.",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en deux sections, une au-dessus de la Marne, l'autre au-dessus du canal de Chelles ; l'acc\u00e8s se fait par une rampe h\u00e9lico\u00efdale (acc\u00e8s cycles) ; piles en b\u00e9ton, tablier m\u00e9tallique",
+        "elem_patri": "Passerelle du Ch\u00e9tivet",
+        "location_X": 48.864181696366614,
+        "location_Y": 2.5664405325374604,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d1aa2eb1c3cc228074667ddc48b8330f265254ae",
+      "fields": {
+        "commune": "Noisy-le-Grand",
+        "ensem2": "Relie les deux rives de Gournay-sur-Marne",
+        "objectid": 196,
+        "commentair": "Est venu remplacer plusieurs ponts dont le 1er daterait du XIIIe si\u00e8cle.",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 trois trav\u00e9es ; tablier m\u00e9tallique, piles en b\u00e9ton",
+        "elem_patri": "Pont de Gournay",
+        "location_X": 48.86544637693297,
+        "location_Y": 2.575307436845619,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4f9bdeb2545ecbd41308e2fd7e6dfa0d34bc97bd",
+      "fields": {
+        "commune": "Fresnes-sur-Marne",
+        "ensem2": "Enjambant la Marne entre Fresnes-sur-Marne et Jablines, pont ferroviaire",
+        "objectid": 204,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 une voie d'eau",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.92311081505888,
+        "location_Y": 2.7427325602098227,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5dd3776900504a193100625bbc9ba8874eae2413",
+      "fields": {
+        "commune": "Trilport",
+        "ensem2": "Pont reliant Trilport rive gauche aux limites entre Poincy et Meaux rive droite",
+        "objectid": 214,
+        "commentair": "Un gu\u00e9 se trouvait \u00e0 cet emplacement jusqu\u2019au XVIIe si\u00e8cle. Plusieurs ponts le remplaceront.",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre de taille \u00e0 arcs en plein cintre \u00e0 trois trav\u00e9es et avant-becs sur chacune des piles",
+        "elem_patri": "Pont de la D603",
+        "location_X": 48.95765980142621,
+        "location_Y": 2.944158493892804,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "fc3661c879231c906a720383c72ab9f562db317c",
+      "fields": {
+        "commune": "Changis-sur-Marne",
+        "ensem2": "Entre Saint-Jean-les-deux-Jumeaux et Changis-sur-Marne, pont",
+        "objectid": 221,
+        "commentair": "L'un des cinq ponts sur la Marne con\u00e7us par Freyssinet",
+        "histo1": "1950",
+        "elem_princ": "Pont-poutres \u00e0 une trav\u00e9e en b\u00e9ton pr\u00e9fabriqu\u00e9 et pr\u00e9contraint",
+        "elem_patri": "Pont de la D53A",
+        "location_X": 48.95510931275251,
+        "location_Y": 3.018637933287799,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9c8b736137d450af9066c3bd9ed83e3952211066",
+      "fields": {
+        "commune": "Ussy-sur-Marne",
+        "ensem2": "Entre Ussy-sur-Marne et Sammeron, pont routier",
+        "objectid": 222,
+        "commentair": "L'un des cinq ponts sur la Marne con\u00e7us par Freyssinet. A remplac\u00e9 un ancien bac.",
+        "histo1": "1949",
+        "elem_princ": "Pont-poutres \u00e0 une trav\u00e9e en b\u00e9ton pr\u00e9fabriqu\u00e9 et pr\u00e9contraint",
+        "elem_patri": "Pont d'Ussy",
+        "location_X": 48.95205604180774,
+        "location_Y": 3.0739595008390075,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "cefac70604af65766b643c70613f530183de83e6",
+      "fields": {
+        "commune": "Sa\u00e2cy-sur-Marne",
+        "ensem2": "Entre Sa\u00e2cy-sur-Marne et Nanteuil-sur-Marne, pont ferroviaire",
+        "objectid": 230,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 trois trav\u00e9es",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.97473848838299,
+        "location_Y": 3.215273713536837,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c4431f9a8b8396a44f11cd1ae09a05af1c5392d2",
+      "fields": {
+        "commune": "Asni\u00e8res-sur-Seine",
+        "ensem2": "Front de berge d'immeubles XIXe si\u00e8cle, en briques et pierres de taille, \u00e0 gauche du pont",
+        "objectid": 238,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "elem_princ": "pas d'element principal",
+        "location_X": 48.91106007029452,
+        "location_Y": 2.2973563858502333,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d61326d41415528e0913df89922e4bdc6a17d4ba",
+      "fields": {
+        "commune": "La Frette-sur-Seine",
+        "ensem2": "Front de berge constitu\u00e9 de vill\u00e9giatures et maisons de bourg (R+1+C), la plupart sont pr\u00e9c\u00e9d\u00e9es de jardinets",
+        "objectid": 247,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Mairie au n\u00b055 et \u00e9glise du XVIe si\u00e8cle au 48.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.97543559044967,
+        "location_Y": 2.1773919902991645,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "de4141c3e097e17bc66f5b24b5c253ad2fa7159c",
+      "fields": {
+        "commune": "Corbeil-Essonnes",
+        "ensem2": "A la t\u00eate du pont, sur les deux rives, t\u00eates de pont modernes",
+        "objectid": 252,
+        "histo1": "XIXe - XXe si\u00e8cles",
+        "elem_princ": "Sur la rive droite, 2 immeubles jumeaux aux m\u00eames gabarits et toitures. A gauche : pignon en trompe-l'oeil, permettant la sym\u00e9trie avec l'immeuble de droite.",
+        "elem_patri": "T\u00eate du Pont de l'arm\u00e9e Patton",
+        "commentair": "",
+        "location_X": 48.61335086439418,
+        "location_Y": 2.484003427520591,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6df837dbfe2b77d8ec955078d180bc43eeee82b5",
+      "fields": {
+        "commune": "Corbeil-Essonnes",
+        "ensem2": "Sur la rive gauche de la Seine, grands moulins",
+        "objectid": 254,
+        "histo1": "XIXe si\u00e8cle (fin)",
+        "elem_princ": "Perpendiculaires \u00e0 la Seine, ensemble constitu\u00e9 d'un b\u00e2timent avec un corps central et deux ailes + un silo, en briques et pierres",
+        "elem_patri": "Grands moulins de Corbeil",
+        "commentair": "",
+        "location_X": 48.61492097050559,
+        "location_Y": 2.4785955642647726,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4f4b356bb737bfbbb7d9a6968f522d31bd68b285",
+      "fields": {
+        "commune": "Melun",
+        "ensem2": "Sur les deux rives et sur la berge de l'\u00eele, fronts de Seine historiques",
+        "objectid": 257,
+        "histo1": "XVIIIe - XIXe - XXe si\u00e8cles",
+        "elem_princ": "Maisons de bourg et immeubles R+2 \u00e0 R+3, pierres de taille, enduit..",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.53641831911493,
+        "location_Y": 2.657747397393463,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "5069b246b21655bb3506d3db5ee0cd79e3457254",
+      "fields": {
+        "commune": "Pr\u00e9cy-sur-Marne",
+        "ensem2": "En bord de Marne, t\u00e9moin de l'ancien bac, maison du passeur",
+        "objectid": 271,
+        "commentair": "Ancienne maison du passeur, le b\u00e2timent est aujourd'hui transform\u00e9 en guinguette de bord de Marne.",
+        "histo1": "XVIIIe - XXe si\u00e8cle",
+        "elem_princ": "B\u00e2timent avec pignon sur rue, R+1+C en enduit et incrustation de c\u00e9ramique sur fa\u00e7ade",
+        "elem_patri": "Maison du passeur",
+        "location_X": 48.93101015716547,
+        "location_Y": 2.7800325087035187,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1ecea0b0b50f6e7eea86a759c18c6bb563a8de20",
+      "fields": {
+        "commune": "Noisiel",
+        "ensem2": "Sur les bords de Marne, \u00e0 Noisiel, ancienne chocolaterie Menier",
+        "objectid": 268,
+        "commentair": "Dessin\u00e9e par J. Saulnier, l'usine fut compl\u00e9t\u00e9e en 1906 par la \"cath\u00e9drale\" con\u00e7ue par Stephen Sauvestre et Louis Logre. L'ensemble, r\u00e9habilit\u00e9 par les architectes Reichen et Robert, accueille depuis 1996 le si\u00e8ge social de Nestl\u00e9 France. Une ci",
+        "histo1": "1872",
+        "elem_princ": "Moulin hydropneumatique, R+2+C, enjambant un bras de la Marne, compl\u00e9t\u00e9 de plusieurs b\u00e2timents d'activit\u00e9s. D\u00e9cor : structure m\u00e9tallique appararente, motifs form\u00e9s par la c\u00e9ramique, grande marquise surplombant la porte d'entr\u00e9e.",
+        "elem_patri": "Chocolaterie Menier",
+        "location_X": 48.857382456480586,
+        "location_Y": 2.623421465843227,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6a1a132fd023c58ba2c82d6d62ed9ae47c70c852",
+      "fields": {
+        "commune": "Mont\u00e9vrain",
+        "ensem2": "Enjambant la Marne entre la rive gauche et une \u00eele, moulin",
+        "objectid": 270,
+        "commentair": "Son nom rappelle la concurrence qui r\u00e8gne entre les meuniers, qui construisent parfois leur moulin \u00ab qui qu'en grogne \u00bb. Dernier des moulins \u00e9tablis en cet endroit, il d\u00e9pend de la seigneurie de Chessy. Aujourd'hui, centre de loisirs.",
+        "histo1": "XVIe - XVIIIe - XXIe si\u00e8cle",
+        "elem_princ": "B\u00e2timent enjambant la Marne R+1 ; fa\u00e7ade c\u00f4t\u00e9 aval en enduit ; de l'autre c\u00f4t\u00e9, pans de bois et enduits",
+        "elem_patri": "Moulin de Quincangrogne",
+        "location_X": 48.88299890755317,
+        "location_Y": 2.7478162520187333,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "3087366a3632ac4b0505ba5dd59f600dbb5ec61b",
+      "fields": {
+        "commune": "Congis-sur-Th\u00e9rouanne",
+        "ensem2": "En bord de Marne, usine \u00e9l\u00e9vatoire des eaux ceinte derri\u00e8re un mur de propri\u00e9t\u00e9 c\u00f4t\u00e9 rue",
+        "objectid": 278,
+        "commentair": "L'usine \u00e9l\u00e9vatoire de Villers-l\u00e8s-Rigault est, comme celle de Tribaldou, l'une des deux usines de pompage compl\u00e9tant par des pr\u00e9l\u00e8vements en Marne les apports d'eau du canal de l'Ourcq. Construites par Louis-Dominique Girard, ing\u00e9nieur hydraulicie",
+        "histo1": "1867",
+        "elem_princ": "B\u00e2timent R+C de plan rectangulaire",
+        "elem_patri": "Usine \u00e9l\u00e9vatoire des eaux",
+        "location_X": 49.00114045799286,
+        "location_Y": 3.0002973415710668,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b1dad5e680643ab294635baf59450f85c24f4a1d",
+      "fields": {
+        "commune": "Joinville-le-Pont",
+        "ensem2": "Le long de la Marne, sur un quai plant\u00e9, ensemble de villas de bord de Marne entre cour et jardin",
+        "objectid": 281,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Villas de diff\u00e9rents styles, certaines en meuli\u00e8res, d'autres de style anglo-normand. Maisons R+1+C pour l'essentiel, orient\u00e9es vers la Marne",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.82298459045346,
+        "location_Y": 2.4695662660189157,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9d4946bd2015968eebfd78d215b0463b26a02c4d",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les 15\u00e8me et 16\u00e8me arrondissement, de la rue de la Convention \u00e0 la place de Barcelone",
+        "objectid": 2,
+        "histo1": "1896",
+        "elem_princ": "Pont en arc m\u00e9tallique, piles en pierre qui repr\u00e9sentent des bateaux avec des statues all\u00e9goriques et armoiries de la ville de Paris.",
+        "elem_patri": "Pont Mirabeau",
+        "commentair": "",
+        "location_X": 48.84665453261852,
+        "location_Y": 2.2755965454495155,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ff6eff233e31d988226fe24a071b0021e7f98f84",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie les 15\u00e8me et 16\u00e8me arrondissement",
+        "objectid": 6,
+        "commentair": "Construit par Dayd\u00e9 et Pill\u00e9, d\u00e9cor\u00e9 par Camille-Jean Formig\u00e9 et orn\u00e9 de statues en fonte de Gustave Michel, Jules Coutan, Jean-Antoine Injalbert et Holger Wederkinch.",
+        "histo1": "1905",
+        "elem_princ": "Pont-viaduc \u00e0 deux niveaux, pont en arc m\u00e9tallique \u00e0 tablier port\u00e9. Des sculptures en fonte ornent  les piles de pierre.",
+        "elem_patri": "Pont de Bir-Hakeim",
+        "location_X": 48.85571914670123,
+        "location_Y": 2.287559432217931,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7e0fb45436adcd283dec8fdfcd84cea45822bb68",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 7\u00e8me et le 8\u00e8me arrondissement",
+        "objectid": 9,
+        "histo1": "1856",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arcs surbaiss\u00e9s \u00e0 quatre trav\u00e9es. Scultpures sur les piles.",
+        "elem_patri": "Pont des Invalides",
+        "commentair": "",
+        "location_X": 48.86362606993412,
+        "location_Y": 2.3103939951267414,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "69ed5018955a0cd89e3ccf68f1150c2966293a0c",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 1er et la limite entre le 7\u00e8me et le 6\u00e8me arrondissement",
+        "objectid": 13,
+        "commentair": "Remplace un pont construit en 1834.",
+        "histo1": "1935",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre \u00e0 arches \u00e0 arcs surbaiss\u00e9s. 2 statues \u00e0 chaque extr\u00e9mit\u00e9.",
+        "elem_patri": "Pont du Caroussel",
+        "location_X": 48.85935011409456,
+        "location_Y": 2.3329092648067657,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f1eb06676c9012af89ad79074bcb0ab91fe73bde",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le quai de l'H\u00f4tel de Ville et l'\u00eele de la Cit\u00e9",
+        "objectid": 19,
+        "commentair": "1er pont parisien en fer, construit \u00e0 la place d'un pont suspendu con\u00e7u au XVIIIe si\u00e8cle.",
+        "histo1": "1854",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 en fer, deux cul\u00e9es en pierres de taille",
+        "elem_patri": "Pont d'Arcole",
+        "location_X": 48.85552318408805,
+        "location_Y": 2.35057922733656,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1c0bf1a32ba13a08b3362e7faea5e0ed0c1085df",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie l'\u00eele Saint-Louis et le quai de la Tournelle",
+        "objectid": 25,
+        "commentair": "Pont rempla\u00e7ant l'ancien pont d\u00e9moli en 1918.",
+        "histo1": "1930",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arcs en pierre. Un pyl\u00f4ne d\u00e9core le pont, surmont\u00e9 d'une statue de Sainte-Genevi\u00e8ve.",
+        "elem_patri": "Pont de la Tournelle",
+        "location_X": 48.85066288888661,
+        "location_Y": 2.355485797752147,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0679777203101d55383305e4655917c776ce4700",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le 12\u00e8me et le 13\u00e8me arrondissement",
+        "objectid": 33,
+        "commentair": "Pont supportant le boulevard p\u00e9riph\u00e9rique.",
+        "histo1": "1969",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 trois trav\u00e9es.",
+        "elem_patri": "Pont Amont",
+        "location_X": 48.82646734169184,
+        "location_Y": 2.3887231045187227,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "74c7f5cd0ed21a348dd37b617b51c62abf01e09b",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie le port de Solf\u00e9rino et le port des Tuileries",
+        "objectid": 35,
+        "commentair": "Remplace deux ponts construits auparavant",
+        "histo1": "1999",
+        "elem_princ": "Passerelle en arc m\u00e9tallique. Passerelle \u00e0 deux niveaux se rejoignant en partie centrale",
+        "elem_patri": "Passerelle L\u00e9opold-S\u00e9dar-Sanghor",
+        "location_X": 48.86174121074672,
+        "location_Y": 2.3246697003039474,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "247eea22cc94f5f55bdaa7a56dcf7a61d81ae9e0",
+      "fields": {
+        "commune": "Paris",
+        "ensem2": "Relie la cour carr\u00e9e du Louvre et l'Institut de France",
+        "objectid": 36,
+        "commentair": "La passerelle actuelle a \u00e9t\u00e9 reconstruite apr\u00e8s des accidents de navigation. Les rambardes de la passerelle servent \u00e0 accrocher des \"cadenas d'amour\".",
+        "histo1": "1804 - 1984",
+        "elem_princ": "Pont en fonte, en arc \u00e0 tablier port\u00e9.",
+        "elem_patri": "Pont des Arts",
+        "location_X": 48.8584557186058,
+        "location_Y": 2.337568170147218,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "045e6283adf20a5382a253499a09e2d6e883fbf9",
+      "fields": {
+        "commune": "Mantes-la-Jolie",
+        "ensem2": "Rocade est reliant l'autoroute A13 \u00e0 la d\u00e9viation (D983) de Limay, prenant appui sur l'Ile de Limay",
+        "objectid": 40,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton. Belle vue sur la coll\u00e9giale.",
+        "elem_patri": "Viaduc de la D983",
+        "commentair": "",
+        "location_X": 48.98528479710013,
+        "location_Y": 1.728878807414164,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4d19bbcd339b7267259e2bfba0d79b24a6911480",
+      "fields": {
+        "commune": "Limay",
+        "ensem2": "Ancien pont reliant Limay et l'Ile aux Dames",
+        "objectid": 42,
+        "commentair": "Projet de passerelle pi\u00e9tonne pour joindre les deux morceaux en 2012.",
+        "histo1": "Le pont avait \u00e9t\u00e9 plusieurs fois reconstruit depuis le Moyen-\u00e2ge.",
+        "elem_princ": "Pont vo\u00fbt\u00e9 en pierre, reste 7 arcs en plein cintre.",
+        "elem_patri": "Pont de Limay",
+        "location_X": 48.991984637120346,
+        "location_Y": 1.725554409402432,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "049febb991d10574e7c7d42c820777c7d53abdff",
+      "fields": {
+        "commune": "Gargenville",
+        "ensem2": "Relie Gargenville (Montalet) et Ep\u00f4ne prenant appuis sur l'\u00eele de Rangiport",
+        "objectid": 43,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont \u00e0 poutres lat\u00e9rales \u00e0 treillis m\u00e9tallique.",
+        "elem_patri": "Pont de Rangiport",
+        "commentair": "",
+        "location_X": 48.97285210857658,
+        "location_Y": 1.8081904631012475,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1452197e41e826c17fae59b3c760425d2119d5d2",
+      "fields": {
+        "commune": "Poissy",
+        "ensem2": "Relie l'Ile du Grand Motteau et Poissy",
+        "objectid": 52,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Passerelle priv\u00e9e avec portail ferm\u00e9. Relie l'avenue \u00e0 la piscine municipale",
+        "elem_patri": "Passerelle de l'Ile de Migneaux",
+        "commentair": "",
+        "location_X": 48.9298748001618,
+        "location_Y": 2.0319310600614227,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "62870db0b0f075b2b8aec2b20b1efcd2d7d5f806",
+      "fields": {
+        "commune": "Poissy",
+        "ensem2": "Relie Poissy et Carri\u00e8res-sous-Poissy",
+        "objectid": 54,
+        "histo1": "1952",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 en m\u00e9tal (structure apparente) - Longueur : 185m. Permet le franchissement de la D 190",
+        "elem_patri": "Pont de Poissy",
+        "commentair": "",
+        "location_X": 48.93652338354149,
+        "location_Y": 2.039069590203391,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f854c2de281f1671211e1492c75e4294d75ed6eb",
+      "fields": {
+        "commune": "Maisons-Laffitte",
+        "ensem2": "Relie Maisons-Laffitte et Sartrouville",
+        "objectid": 58,
+        "histo1": "1952",
+        "elem_princ": "Pont-poutres en b\u00e9ton arm\u00e9. Permet le franchissement de la D 308",
+        "elem_patri": "Pont de Maisons-Laffitte",
+        "commentair": "",
+        "location_X": 48.94507055702057,
+        "location_Y": 2.1579395713371197,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "f2c545dd0bdff0fa347fab489476e1a818cfcb27",
+      "fields": {
+        "commune": "Le Mesnil-le-Roi",
+        "ensem2": "Viaduc de l'autoroute A14 entre Montesson et Le Mesnil-le-roi",
+        "objectid": 62,
+        "histo1": "1996",
+        "elem_princ": "Pont-poutres en deux sections, courbe, en b\u00e9ton - Longueur : 501m de long",
+        "elem_patri": "Viaduc autoroutier de Montesson",
+        "commentair": "",
+        "location_X": 48.91766892192737,
+        "location_Y": 2.1196853338739974,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "463439a9ad49d927bd6cc20d52642a82445277c6",
+      "fields": {
+        "commune": "Chatou",
+        "ensem2": "Pont des lignes venant de la gare Saint-Lazare, prenant appui sur l'\u00eele des Impressionnistes",
+        "objectid": 67,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "Pont en deux sections : pont rive gauche en arcs en pierres ; pont-poutres m\u00e9tallique rive droite.",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.88539278326202,
+        "location_Y": 2.1607942718213917,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d569eac82bc85cc7ef9dedef8bf3342739acebfd",
+      "fields": {
+        "commune": "Carri\u00e8res-sur-Seine",
+        "ensem2": "Pont des lignes venant de la gare Saint-Lazare entre Houilles et Nanterre, prenant appui sur l'\u00eele Saint-martin",
+        "objectid": 71,
+        "commentair": "Le pont prendra le nom de pont des Anglais du fait de l'ing\u00e9nieur et de nombreux ouvriers Anglais.",
+        "histo1": "1841 - 2006",
+        "elem_princ": "Pont-poutres m\u00e9tallique, piles en pierres.",
+        "elem_patri": "Pont ferroviaire des Anglais",
+        "location_X": 48.91126652876625,
+        "location_Y": 2.2041353090808045,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0f796dd2db17498c3fb0b183c7c076f9fe388513",
+      "fields": {
+        "commune": "Bezons",
+        "ensem2": "Relie Bezons et Colombes",
+        "objectid": 72,
+        "histo1": "1953-2009",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 m\u00e9tallique, piles en b\u00e9ton arm\u00e9. Pont routier, tramway T2 sur partie centrale.",
+        "elem_patri": "Pont de Bezons",
+        "commentair": "",
+        "location_X": 48.92004051396549,
+        "location_Y": 2.2212800435356113,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a77a2c50458f84ab8c88b08ddc1a42bfeb646e2e",
+      "fields": {
+        "commune": "Epinay-sur-Seine",
+        "ensem2": "Pont pour le passage des voies ferr\u00e9es, en deux parties, allant d'Epinay-sur-Seine \u00e0 Gennevilliers, via la pointe nord de l'Ile-Saint-Denis",
+        "objectid": 77,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Pont vo\u00fbt\u00e9, arches de plein cintre en pierres",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.95112833596758,
+        "location_Y": 2.3018813085903043,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9049dcb3408cec833970623e330ccd0ecc238e21",
+      "fields": {
+        "commune": "Saint-Denis",
+        "ensem2": "Pont en deux parties allant de Saint-Denis \u00e0 Gennevilliers-Villeneuve-la-Garenne, via L'Ile-Saint-Denis",
+        "objectid": 79,
+        "histo1": "1905",
+        "elem_princ": "Pont en arc \u00e0 tablier m\u00e9talliques, arches en fonte et piles en pierres. 2 \u00e9cussons aux armes de Saint-Denis et de l'Ile-Saint-Denis sculpt\u00e9es sur les pierres. Le pont permet le passage du tramway T1 depuis 2013.",
+        "elem_patri": "Pont de l'Ile-Saint-Denis",
+        "commentair": "",
+        "location_X": 48.93579189615033,
+        "location_Y": 2.3394482569031987,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bcce706f0218d3bc29cab365d475bfde59f12249",
+      "fields": {
+        "commune": "Saint-Ouen",
+        "ensem2": "Relie Saint-Ouen (Vieux Saint-Ouen) et Gennevilliers via l'Ile-Saint-Denis",
+        "objectid": 81,
+        "histo1": "1873",
+        "elem_princ": "Pont en arc en deux sections, \u00e0 arches surbaiss\u00e9es, en fonte et piles en pierres",
+        "elem_patri": "Pont de Saint-Ouen-les-Docks",
+        "commentair": "",
+        "location_X": 48.91954670411433,
+        "location_Y": 2.3274437096378553,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "90dbc3db4245ce7ca10f4dcc3a7c669748e3a9c3",
+      "fields": {
+        "commune": "Saint-Ouen",
+        "ensem2": "Relie les Docks de Saint-Ouen et Gennevilliers (Les Gr\u00e9sillons)",
+        "objectid": 82,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres lat\u00e9rales \u00e0 treillis m\u00e9tallique, piles en pierres.",
+        "elem_patri": "Pont ferroviaire de Saint-Ouen",
+        "commentair": "",
+        "location_X": 48.91507304354112,
+        "location_Y": 2.3173484780311586,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d614095118c7bc4fb29cf29fb35694108560ea15",
+      "fields": {
+        "commune": "Puteaux",
+        "ensem2": "Relie Neuilly-sur-Seine et Puteaux s'appuyant sur l'Ile-de-Puteaux",
+        "objectid": 93,
+        "commentair": "Architecte Duffau",
+        "histo1": "1980, remplace un premier pont de 1895",
+        "elem_princ": "Pont-poutres en b\u00e9ton - Longueur : 350m.",
+        "elem_patri": "Pont de Puteaux",
+        "location_X": 48.87732389128323,
+        "location_Y": 2.2441788549055293,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "80af402601a1d1297500bb82f6f01d15e6151998",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "Pont reliant Boulogne-Billancourt \u00e0 l'Ile-Seguin",
+        "objectid": 99,
+        "commentair": "Pont construit dans le projet de r\u00e9am\u00e9nagement de l'\u00eele Seguin. Ce pont est le seul ouvert \u00e0 l'automobile.",
+        "histo1": "2009",
+        "elem_princ": "Pont en arc, bomb\u00e9, partant de Boulogne-Billancourt - Longueur : 205m de long.",
+        "elem_patri": "Pont Renault",
+        "location_X": 48.82547210964806,
+        "location_Y": 2.232226318376098,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "564c14f450ae4f866809bf66927c02003616089b",
+      "fields": {
+        "commune": "Boulogne-Billancourt",
+        "ensem2": "Pont \u00e9tabli pour l'usine Renault entre l'Ile Seguin et Boulogne-Billancourt",
+        "objectid": 100,
+        "commentair": "Le pont est en cours de r\u00e9am\u00e9nagement en passerelle pi\u00e9tonne en 2014. Les travaux doivent s'achever en 2016.",
+        "histo1": "1928",
+        "elem_princ": "Pont suspendu en b\u00e9ton ; deux pylones en b\u00e9ton sur lesquels reposent les suspensions.",
+        "elem_patri": "Pont Dayd\u00e9",
+        "location_X": 48.823307192643206,
+        "location_Y": 2.236690619076029,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bf6222130b477ad0a34292030796bc00f3b93a8a",
+      "fields": {
+        "commune": "Charenton-le-Pont",
+        "ensem2": "Relie Charenton et Ivry-sur-Seine, ponts jumeaux",
+        "objectid": 105,
+        "commentair": "Ces ponts jumeaux ont remplac\u00e9 l'ancien pont de Conflans",
+        "histo1": "1974",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont Nelson Mandela",
+        "location_X": 48.820423004646855,
+        "location_Y": 2.398682277968989,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "c75bf801fbcfba417f3dabcf2931446c1532f7a7",
+      "fields": {
+        "commune": "Charenton-le-Pont",
+        "ensem2": "Relie Charenton et Ivry-sur-Seine, ponts jumeaux",
+        "objectid": 106,
+        "commentair": "Ces ponts jumeaux ont remplac\u00e9 l'ancien pont de Conflans",
+        "histo1": "1974",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont Nelson Mandela",
+        "location_X": 48.81990446376023,
+        "location_Y": 2.4002415110096034,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a61e21fdb6b1f0b533dab1903a56b45276f7bdd4",
+      "fields": {
+        "commune": "Ivry-sur Seine",
+        "ensem2": "Relie Ivry-sur-Seine et Alfortville",
+        "objectid": 108,
+        "histo1": "2eme moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton et tablier m\u00e9tallique.",
+        "elem_patri": "Pont d'Ivry",
+        "commentair": "",
+        "location_X": 48.814594400465495,
+        "location_Y": 2.410252662524865,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d5058daa8f8abaee2b3deabc03b979c1c3e9c7e4",
+      "fields": {
+        "commune": "Vitry-sur-Seine",
+        "ensem2": "Relie Alfortville et Vitry-sur-Seine",
+        "objectid": 109,
+        "histo1": "1928",
+        "elem_princ": "Pont suspendu \u00e0 haubans.",
+        "elem_patri": "Pont du Port \u00e0 l'Anglais",
+        "commentair": "",
+        "location_X": 48.79711152114422,
+        "location_Y": 2.418462380859607,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "35abfe5c70424963f1ce5f9ed4db6a3b436055b2",
+      "fields": {
+        "commune": "Corbeil-Essonnes",
+        "ensem2": "Relie Corbeil-Essonnes et Saint-Germain-les-Corbeil",
+        "objectid": 120,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres double en b\u00e9ton.",
+        "elem_patri": "Viaduc de la N104",
+        "commentair": "",
+        "location_X": 48.62491600236843,
+        "location_Y": 2.4710554738641024,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "6f1d80bb82742844755acb6279bc77ba9b7cbc44",
+      "fields": {
+        "commune": "Dammarie-les-Lys",
+        "ensem2": "Relie Dammarie-les-Lys et la M\u00e9e-sur-Seine",
+        "objectid": 123,
+        "commentair": "Le pont pr\u00e9sente la particularit\u00e9 d'avoir \u00e9t\u00e9 doubl\u00e9 en 1925 par un pont en ma\u00e7onnerie, tandis que le pont du XIXe si\u00e8cle, m\u00e9tallique originellement  a \u00e9t\u00e9 recouvert de b\u00e9ton.",
+        "histo1": "XIXe - 1925",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arches surbaiss\u00e9es : une partie en pierre (en amont) avec arches de plein cintre et l'autre en b\u00e9ton (aval) avec arches surbaiss\u00e9es.",
+        "elem_patri": "Pont ferroviaire du M\u00e9e",
+        "location_X": 48.531924197511074,
+        "location_Y": 2.6395587072923115,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bc338c6bf807019f10af3c764e1cea3ed6b47eee",
+      "fields": {
+        "commune": "Montereau-Fault-Yonne",
+        "ensem2": "Relie les deux rives de Montereau",
+        "objectid": 137,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont Saint-Martin",
+        "commentair": "",
+        "location_X": 48.39165728142966,
+        "location_Y": 2.967082724638839,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "54a5037f0e0414961f21a3fa6e9a4b375b808608",
+      "fields": {
+        "commune": "Marolles-sur-Seine",
+        "ensem2": "Relie la Noue et Marolles-sur-Seine pont de chemin de fer",
+        "objectid": 140,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.394166970951545,
+        "location_Y": 2.9971901672759476,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "231ed19f6372bd1b459dd4ee31025c0101c662a7",
+      "fields": {
+        "commune": "Noyen-sur-Seine",
+        "ensem2": "Relie les deux rives de Noyen-sur-Seine",
+        "objectid": 146,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton",
+        "elem_patri": "Pont de la D49",
+        "commentair": "",
+        "location_X": 48.45855619829956,
+        "location_Y": 3.339108543930701,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "36bd661e4037ccca2f6ddcce28436ad49d393691",
+      "fields": {
+        "commune": "Boissise-le-Roi",
+        "ensem2": "Relie Boissise-le-Roi et Boissise-la-Bertrand",
+        "objectid": 149,
+        "commentair": "La passerelle est en cours de r\u00e9novation en 2014.",
+        "histo1": "1968",
+        "elem_princ": "Passerelle surplombant l'\u00e9cluse et le barrage \u00e0 hauts treillis m\u00e9talliques, abritant la partie technique.",
+        "elem_patri": "Barrage de Vives Eaux",
+        "location_X": 48.5230529799314,
+        "location_Y": 2.585522873575872,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "8d31f6e43fe32d6aa16554da664e0f8cf0175c4c",
+      "fields": {
+        "commune": "Asni\u00e8res-sur-Seine",
+        "ensem2": "Ancienne cul\u00e9e de pont \u00e0 l'ouest du Pont de Clichy, \u00e0 c\u00f4t\u00e9 du cimeti\u00e8re des chiens",
+        "objectid": 153,
+        "elem_princ": "Reste seulement la cul\u00e9e du pont en moellons de pierres taill\u00e9es et chaine d'angle en pierres de taille",
+        "elem_patri": "Ancien pont",
+        "commentair": "",
+        "histo1": "indetermin\u00e9",
+        "location_X": 48.910025160169425,
+        "location_Y": 2.297999375342687,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ff79228d425c354ff52c2cf0990360fa864ca625",
+      "fields": {
+        "commune": "M\u00e9ricourt",
+        "ensem2": "Barrage-\u00e9cluse entre M\u00e9ricourt et Th\u00e9m\u00e9ricourt",
+        "objectid": 158,
+        "commentair": "Grande maison de l'\u00e9clusier rive gauche",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Haut barrage en b\u00e9ton \u00e0 nombreuses piles surmont\u00e9 d'une passerelle de service, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Barrage-\u00e9cluse",
+        "location_X": 49.0288444129418,
+        "location_Y": 1.6187217841372497,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0864f8a33e0215b35599f6855cc2caaa20e73711",
+      "fields": {
+        "commune": "Alfortville",
+        "ensem2": "Entre Alfortville et Vitry-sur-Seine",
+        "objectid": 161,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Haut barrage en b\u00e9ton \u00e0 5 trav\u00e9es, surmont\u00e9 d'une passerelle de service, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Ecluse de Port-\u00e0-l'anglais",
+        "commentair": "",
+        "location_X": 48.79842293171411,
+        "location_Y": 2.4175665742332884,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "ae105b43ddd1e44b519c7174954b18deafd3665c",
+      "fields": {
+        "commune": "Alfortville",
+        "ensem2": "Entre Alfortville et Charenton-le-Pont",
+        "objectid": 167,
+        "commentair": "C\u00f4t\u00e9 Alfortville, le quartier est en pleine mutation et de nombreux immeubles d'habitation se sont install\u00e9s.",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Passerelle-poutres en b\u00e9ton l\u00e9g\u00e8rement bomb\u00e9 en son centre, escalier \u00e0 double entr\u00e9e c\u00f4t\u00e9 Alfortville",
+        "elem_patri": "Passerelle d'Alfortville",
+        "location_X": 48.816321127077174,
+        "location_Y": 2.4133114006759735,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bfd236881ca41ae4a9554ef07aab43ccd773b3f0",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Barrage entre Saint-Maur-des-Foss\u00e9s et Cr\u00e9teil",
+        "objectid": 177,
+        "commentair": "Permet de relever le niveau de la Marne.",
+        "histo1": "1886, r\u00e9nov\u00e9 en 1970",
+        "elem_princ": "Barrage en b\u00e9ton \u00e0 deux trav\u00e9es, surmont\u00e9 d'une passerelle technique, \u00e9cluse accol\u00e9e",
+        "elem_patri": "Barrage-\u00e9cluse de Saint-Maur-des-Foss\u00e9s",
+        "location_X": 48.798232840356754,
+        "location_Y": 2.470545893807473,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "89daaa7f4b44f145730988aa62b72340b502649e",
+      "fields": {
+        "commune": "Saint-Maur-des-Foss\u00e9s",
+        "ensem2": "Entre Saint-Maur-des-Foss\u00e9s et Bonneuil-sur-Marne",
+        "objectid": 179,
+        "commentair": "Est venu remplacer un pont dont il subsiste l'ancienne cul\u00e9e",
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 deux trav\u00e9e ; piles en b\u00e9ton et tablier m\u00e9tallique",
+        "elem_patri": "Pont de Bonneuil",
+        "location_X": 48.78441238833572,
+        "location_Y": 2.495313362855386,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "2c366d0a475b27f41285846fc6ca8a3c08ea2516",
+      "fields": {
+        "commune": "Champigny-sur-Marne",
+        "ensem2": "Entre Champigny-sur-Marne et Saint-Maur-des-Foss\u00e9s, prend appui sur l'\u00eele de l'Abreuvoir",
+        "objectid": 182,
+        "commentair": "Bel immeuble 1912 en t\u00eate de pont",
+        "histo1": "1934",
+        "elem_princ": "Pont en arc en b\u00e9ton \u00e0 tablier port\u00e9, \u00e0 deux trav\u00e9es",
+        "elem_patri": "Pont de Champigny",
+        "location_X": 48.810149202191965,
+        "location_Y": 2.5099475197786636,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "b295c73d61eb7ebd29df956660b7ff3255f2e956",
+      "fields": {
+        "commune": "Joinville-le-Pont",
+        "ensem2": "Relie les deux rives de Joinville",
+        "objectid": 185,
+        "commentair": "A remplac\u00e9 plusieurs ponts dont le premier fut construit au XIIIe si\u00e8cle, architecte Tourry. En contrebas du pont, anciens studios Path\u00e9-Eiffel, aujourd'hui reconvertis en p\u00f4le cin\u00e9matographique",
+        "histo1": "1937",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 en b\u00e9ton",
+        "elem_patri": "Pont de joinville",
+        "location_X": 48.82015937870953,
+        "location_Y": 2.4685375698381025,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "fde1bc0325a71c766625b12b05dd6236c1ab6509",
+      "fields": {
+        "commune": "Joinville-le-Pont",
+        "ensem2": "Relie les deux rives de Joinville",
+        "objectid": 186,
+        "histo1": "1976",
+        "elem_princ": "Pont-poutres \u00e0 deux trav\u00e9es en b\u00e9ton, murs anti-bruits vitr\u00e9s",
+        "elem_patri": "Viaduc de Joinville",
+        "commentair": "",
+        "location_X": 48.827298736057315,
+        "location_Y": 2.4689243167908046,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "580c0fd720423973ff1b3669473b7479f9727220",
+      "fields": {
+        "commune": "Neuilly-sur-Marne",
+        "ensem2": "Entre Neuilly-sur-Marne et Noisy-le-Grand",
+        "objectid": 192,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont en arc en b\u00e9ton \u00e0 trois trav\u00e9es, une seule enjambant la Marne",
+        "elem_patri": "Viaduc de Neuilly-sur-Marne",
+        "commentair": "",
+        "location_X": 48.85236614190084,
+        "location_Y": 2.52253084991214,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "fd0846ae6b78171e442ed735a112570a48fdc237",
+      "fields": {
+        "commune": "Torcy",
+        "ensem2": "Entre Vaires-sur-Marne et Torcy",
+        "objectid": 198,
+        "histo1": "2\u00e8me moiti\u00e9 du XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres en b\u00e9ton \u00e0 quatre trav\u00e9es, piles doubles",
+        "elem_patri": "Pont de Torcy",
+        "commentair": "",
+        "location_X": 48.8621808579565,
+        "location_Y": 2.6444470586950013,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0113a40df870d9959e0aacdaf86924d5b28fade3",
+      "fields": {
+        "commune": "Lagny-sur-Marne",
+        "ensem2": "Entre Pomponne et Lagny-sur-Marne",
+        "objectid": 200,
+        "commentair": "Quelques belles vill\u00e9giatures de part et d'autres du pont sur le quai.",
+        "histo1": "XXe si\u00e8cle (d\u00e9but)",
+        "elem_princ": "Pont en arc \u00e0 trois trav\u00e9es ;  arches en b\u00e9ton (structure apparente), piles en pierre, cul\u00e9es en pierre meuli\u00e8re",
+        "elem_patri": "Pont de la D148",
+        "location_X": 48.880453545896884,
+        "location_Y": 2.7013703811635543,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "9407f3a5062437145989eaca64e8088cb5dd6f8d",
+      "fields": {
+        "commune": "Chalifert",
+        "ensem2": "Enjambant la Marne, deux ponts ferroviaires",
+        "objectid": 202,
+        "commentair": "Le canal de Meaux \u00e0 Chalifert d\u00e9bouche au niveau de l'ancien pont et permet \u00e0 la navigation d'\u00e9viter deux boucles de la Marne.",
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "Ancien pont ferroviaire \u00e0 trois voies d'eau, \u00e0 arches de plein cintre en pierres meuli\u00e8res jointoy\u00e9es. Un pont-poutres a remplac\u00e9 l'ancien pont ferroviaire.",
+        "elem_patri": "Pont ferroviaire et ancien pont ferroviaire",
+        "location_X": 48.90002221100154,
+        "location_Y": 2.767999778108878,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "91ed0740af66269c8ed2a414ea3c9ebbb52db512",
+      "fields": {
+        "commune": "Trilbardou",
+        "ensem2": "Reliant les deux rives de Trilbardou, pont routier",
+        "objectid": 205,
+        "commentair": "L'un des cinq ponts sur la Marne dessin\u00e9 par Freyssinet, construit par Campenon-Bernard. Le pont a remplac\u00e9 un ancien bac.",
+        "histo1": "1949",
+        "elem_princ": "Pont-poutres \u00e0 une voie d'eau en b\u00e9ton pr\u00e9fabriqu\u00e9 et pr\u00e9contraint",
+        "elem_patri": "Pont de la D89",
+        "location_X": 48.942258671020724,
+        "location_Y": 2.803103848224168,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a3cd34bedecbf23f29417917dae19f9f5f7d5389",
+      "fields": {
+        "commune": "Trilport",
+        "ensem2": "Pont reliant Trilport \u00e0 Poincy",
+        "objectid": 215,
+        "commentair": "Des plaques comm\u00e9morent les destructions du pont. La premi\u00e8re a lieu en 1814 : les troupes form\u00e9es par la coalition de la Prusse, de la Russie, de la Bavi\u00e8re et de l'Autriche envahissent le pays pour d\u00e9tr\u00f4ner Napol\u00e9on.",
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont vo\u00fbt\u00e9 \u00e0 arcs de plein cintre \u00e0 3 trav\u00e9es et passage pi\u00e9ton sur les deux rives, avant-becs sur les piles ; bandeaux en pierres de taille, remplissage en briques",
+        "elem_patri": "Pont ferroviaire",
+        "location_X": 48.960171290021904,
+        "location_Y": 2.9445880510284015,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "bf0b11c1b18dd2a0e4760296bf2fd5ac8997ea05",
+      "fields": {
+        "commune": "La Fert\u00e9-sous-Jouarre",
+        "ensem2": "Reliant les deux rives de la Fert\u00e9-sous-Jouarre, pont",
+        "objectid": 225,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont en arc \u00e0 tablier port\u00e9 \u00e0 trois trav\u00e9es en m\u00e9tal (structure apparente), piles en pierres, arches surbaiss\u00e9es m\u00e9talliques",
+        "elem_patri": "Pont Charles-de-Gaulle",
+        "commentair": "",
+        "location_X": 48.94885374108845,
+        "location_Y": 3.13159964430111,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "1c3c91163daf3c9b784d9b918bae6c653cb2bcf0",
+      "fields": {
+        "commune": "Luzancy",
+        "ensem2": "Entre Luzancy et M\u00e9ry-sur-Marne, pont",
+        "objectid": 227,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Pont-poutres",
+        "elem_patri": "Pont ferroviaire",
+        "commentair": "",
+        "location_X": 48.97859092962899,
+        "location_Y": 3.1970002965756903,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7d5032c8e8013b971dbde05ffe2118db87e62567",
+      "fields": {
+        "commune": "Luzancy",
+        "ensem2": "Entre Luzancy et M\u00e9ry-sur-Marne, pont",
+        "objectid": 228,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "Pont-poutres \u00e0 une trav\u00e9e en b\u00e9ton, tablier m\u00e9tallique",
+        "elem_patri": "Pont de la D402",
+        "commentair": "",
+        "location_X": 48.970829280561986,
+        "location_Y": 3.191278048068639,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a134abdaaa999f56295d69d24ea3de3b2aed2b6e",
+      "fields": {
+        "commune": "Maisons-Laffitte",
+        "ensem2": "A la t\u00eate ouest du pont, c\u00f4t\u00e9 Maisons-Laffitte, t\u00eate de pont constitu\u00e9e du ch\u00e2teau de Maisons-Laffitte",
+        "objectid": 235,
+        "commentair": "Ch\u00e2teau r\u00e9alis\u00e9 par Mansart",
+        "histo1": "XVIIe si\u00e8cle",
+        "elem_princ": "Ch\u00e2teau sym\u00e9trique avec aile centrale et 2 ailes lat\u00e9rales, toiture mansard\u00e9e. Jardins \u00e0 la fran\u00e7aise avec taupi\u00e8res et arbres en rideaux.",
+        "elem_patri": "T\u00eate du pont de Maisons-Laffitte",
+        "location_X": 48.94669715961133,
+        "location_Y": 2.154806805953885,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "79d73ca3df43bc82791f5d2bb7ae71f1cdd4cb07",
+      "fields": {
+        "commune": "Saint-Denis",
+        "ensem2": "Sur les quais plant\u00e9s, front de berge constitu\u00e9 d'immeubles R+2 \u00e0 R+3",
+        "objectid": 237,
+        "histo1": "XIXe - XXe si\u00e8cle",
+        "elem_princ": "Deux immeubles en briques, deux en enduit color\u00e9 et pierres de taille. Riches d\u00e9cors en fa\u00e7ade.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.93631470995243,
+        "location_Y": 2.3405786064830796,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0ce133774e0d3fe035661f6dd659b89ac325b4c5",
+      "fields": {
+        "commune": "Asni\u00e8res-sur-Seine",
+        "ensem2": "A la t\u00eate du pont d'Asni\u00e8res, rive gauche, t\u00eate de pont moderne",
+        "objectid": 239,
+        "histo1": "XXe si\u00e8cle",
+        "elem_princ": "2 immeubles sym\u00e9triques en b\u00e9ton des ann\u00e9es 1980",
+        "elem_patri": "T\u00eate du pont d'Asni\u00e8res",
+        "commentair": "",
+        "location_X": 48.905242315261006,
+        "location_Y": 2.287305292400774,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "d120bb2b0274329859771d29149996f2b31b5dfc",
+      "fields": {
+        "commune": "Mantes-la-Jolie",
+        "ensem2": "Quai le long de la Seine o\u00f9 subsistent des vestiges du Ch\u00e2teau F\u00eatu, porte au Pr\u00eatre et quelques belles vill\u00e9giatures faisant face \u00e0 la Seine.",
+        "objectid": 244,
+        "histo1": "XVe - XIXe si\u00e8cle",
+        "elem_princ": "Au n\u00b025, belle vill\u00e9giature en ruine. Porte au Pr\u00eatre au n\u00b017 ter : porte d'enceinte et fa\u00e7ade \u00e0 encorbellement \u00e0 pans de bois.",
+        "elem_patri": "Quai des Cordeliers",
+        "commentair": "",
+        "location_X": 48.99024708843626,
+        "location_Y": 1.7213999102424464,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "0706b3f15d6edf0a4214428ae123b9d3157e1418",
+      "fields": {
+        "commune": "Corbeil-Essonnes",
+        "ensem2": "Sur la rive droite, front de Seine de maisons de bourg en alignement ayant jardin sur Seine",
+        "objectid": 253,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Ensemble R+2 et R+2+C dont les jardins sont sur\u00e9lev\u00e9s par des murs de sout\u00e8nement.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.613105280334786,
+        "location_Y": 2.485819925020048,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "4dff6abf57b161ca3d86bee5b0634204735fae25",
+      "fields": {
+        "commune": "Thomery",
+        "ensem2": "Sur la rive gauche de la Seine, lin\u00e9aire de maisons de bourg et vill\u00e9giatures, s\u00e9par\u00e9es de leur jardin en bordure de Seine par la route",
+        "objectid": 259,
+        "elem_princ": "Les jardins sont s\u00e9par\u00e9s des habitations par la route. Quelques garages \u00e0 bateau y subsistent encore. Au n\u00b0145, grande maison \u00e0 la fa\u00e7ade ornement\u00e9e de briques tricolores, avec grande terrasse-solarium sur Seine.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "histo1": "indetermin\u00e9",
+        "location_X": 48.41129432465508,
+        "location_Y": 2.772234996782003,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "250fc73cd1cb4f2ef4c7a67567d507e7356a23f3",
+      "fields": {
+        "commune": "Meaux",
+        "ensem2": "Le long du quai Victor Hugo, front de berge compos\u00e9 de villas, maisons de notable et maisons de bourg",
+        "objectid": 273,
+        "histo1": "XVIIIe - XIXe si\u00e8cle",
+        "elem_princ": "A noter au n\u00b014, villa en meuli\u00e8re, incrustation de c\u00e9ramique avec verri\u00e8re ancienne donnant sur Marne ; \u00e0 l'angle du quai et de la place de l'h\u00f4tel de ville, h\u00f4tel urbain de la Caisse d'Epargne dans le prolongement de l'h\u00f4tel de ville, en pierre",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.95814825137008,
+        "location_Y": 2.8780753867245936,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "a5c5988bdbdc31b17ec559213bf58ba5ad65b533",
+      "fields": {
+        "commune": "Germigny-l'Ev\u00eaque",
+        "ensem2": "Sur un quai plant\u00e9, front de berge constitu\u00e9 essentiellement de maisons de bourg entre cour et jardin",
+        "objectid": 276,
+        "histo1": "XIXe si\u00e8cle",
+        "elem_princ": "Maisons de bourg R+1+C mitoyennes. A noter au n\u00b019, maison de notable entour\u00e9e d'un jardin avec balcon central soutenu par des colonnes et m\u00e9daillons sculpt\u00e9s au-dessus de chacune des fen\u00eatres.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.99367198494294,
+        "location_Y": 2.9430300769379705,
+        "favorite": 0,
+        "image": ""
+      }
+    },
+    {
+      "recordid": "7f13a02c3c52042ea0a5141d8394234840eed50f",
+      "fields": {
+        "commune": "La Fert\u00e9-sous-Jouarre",
+        "ensem2": "Le long des quais, ensemble compos\u00e9 de maisons de ville",
+        "objectid": 280,
+        "histo1": "XVIIIe - XIXe si\u00e8cle",
+        "elem_princ": "Maisons R+1+C de styles vari\u00e9s (meuli\u00e8res, pierres de taille, ornementations, pittoresque\u2026). Rive droite, les jardins des maisons donnent directement sur Marne.",
+        "elem_patri": "Front de berge",
+        "commentair": "",
+        "location_X": 48.94844546903164,
+        "location_Y": 3.131487704567122,
+        "favorite": 0,
+        "image": ""
+      }
+    }
+  ]
+}

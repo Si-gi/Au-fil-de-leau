@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fragment_list_ville"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ListVilleFragment"
+    android:layout_gravity="center"
+    android:background="@color/colorBackGroundWhite">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="Liste des villes"
+        android:textAlignment="center"
+        android:textColor="@color/main_blue"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textViewVillenbpoint"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="point d'interet "
+        android:textAlignment="center"
+        android:textColor="@color/main_blue"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textViewVillename"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginTop="30dp"
+        android:gravity="center"
+        android:text="  Nom"
+        android:textAlignment="textStart"
+        android:textColor="@color/main_blue"
+        android:textSize="24sp" />
+
+    <ListView
+        android:id="@+id/list_ville"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="60dp" />
+</FrameLayout>

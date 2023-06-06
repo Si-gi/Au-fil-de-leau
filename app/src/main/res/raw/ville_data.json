@@ -1,0 +1,464 @@
+{
+  "listes_villes": [
+    {
+      "ville": "Paris",
+      "nb_point_interet": 37
+    },
+    {
+      "ville": "Meulan-en-Yvelines",
+      "nb_point_interet": 5
+    },
+    {
+      "ville": "Maisons-Laffitte",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Le Mesnil-le-Roi",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Argenteuil",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Clichy-la-Garenne",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Courbevoie",
+      "nb_point_interet": 5
+    },
+    {
+      "ville": "Boulogne-Billancourt",
+      "nb_point_interet": 7
+    },
+    {
+      "ville": "Ivry-sur Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Villeneuve-le-Roi",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Evry",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Ponthierry-Saint-Fargeau",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Montereau-Fault-Yonne",
+      "nb_point_interet": 6
+    },
+    {
+      "ville": "Vimpelles",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Champagne-sur-Seine",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Bray-sur-Seine",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Maisons-Alfort",
+      "nb_point_interet": 7
+    },
+    {
+      "ville": "Meaux",
+      "nb_point_interet": 7
+    },
+    {
+      "ville": "Saint-Maur-des-Foss\u00e9s",
+      "nb_point_interet": 8
+    },
+    {
+      "ville": "Joinville-le-Pont",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Nogent-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Bry-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Neuilly-sur-Marne",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Noisy-le-Grand",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Isles-les-Meldeuses",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Changis-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Triel-sur-Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Conflans-Sainte-Honorine",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Ablon-sur-Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Samois-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Saint-Mamm\u00e8s",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Poissy",
+      "nb_point_interet": 5
+    },
+    {
+      "ville": "Thorigny-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Poincy",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Le Perreux-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Bonni\u00e8res-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Vaux-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Triel-sur-seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Villennes-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Carri\u00e8res-sur-Seine",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Gennevilliers",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Neuilly-sur-Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Issy-les-Moulineaux",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Meudon",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Athis-Mons",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Ris-Orangis",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Melun",
+      "nb_point_interet": 7
+    },
+    {
+      "ville": "Bois-le-Roi",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Vulaines-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Villiers-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Saint-Thibault-des-Vignes",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "M\u00e9ry-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Moisson (Lavacourt)",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Rolleboise",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Aubergenville",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Chennevi\u00e8res-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Mary-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Thomery",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Alfortville",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Mantes-la-Jolie",
+      "nb_point_interet": 5
+    },
+    {
+      "ville": "Lagny-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Mareuil-l\u00e8s-Meaux",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Ussy-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Sa\u00e2cy-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Bougival",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Trilbardou",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "l'Ile-Saint-Denis",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Asni\u00e8res-sur-Seine",
+      "nb_point_interet": 5
+    },
+    {
+      "ville": "Choisy-le-Roi",
+      "nb_point_interet": 4
+    },
+    {
+      "ville": "Juvisy-sur-Orge",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Fontaine-le-Port",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "La Grande-Paroisse",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Marolles-sur-Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Noyen-sur-Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Neuilly-Plaisance",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Isles-l\u00e8s-Villenoy",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Germigny-l'Ev\u00eaque",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "La Fert\u00e9-sous-Jouarre",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Varreddes",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Chatou",
+      "nb_point_interet": 3
+    },
+    {
+      "ville": "Jaulnes",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Champigny-sur-Marne",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Annet-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Chamigny",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Gargenville (Rangiport)",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Le Coudray-Montceaux",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Colombes",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Le Pecq",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Epinay-sur-Seine",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Suresnes",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Saint-Cloud",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Corbeil-Essonnes",
+      "nb_point_interet": 5
+    },
+    {
+      "ville": "La Rochette",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Tombe (la)",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Balloy",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Andr\u00e9sy",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Fresnes-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Trilport",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "La Frette-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Pr\u00e9cy-sur-Marne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Noisiel",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Mont\u00e9vrain",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Congis-sur-Th\u00e9rouanne",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Limay",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Bezons",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Saint-Ouen",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Puteaux",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Charenton-le-Pont",
+      "nb_point_interet": 2
+    },
+    {
+      "ville": "Vitry-sur-Seine",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Dammarie-les-Lys",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Boissise-le-Roi",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "M\u00e9ricourt",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Torcy",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Chalifert",
+      "nb_point_interet": 1
+    },
+    {
+      "ville": "Luzancy",
+      "nb_point_interet": 2
+    }
+  ]
+}
